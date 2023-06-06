@@ -6260,475 +6260,485 @@ STRING Virtual Fly - G1000 PFD====Virtual Fly - G1000 PFD
 STRING Thrustmaster A320 Throttle 1 & 2====圖馬斯特 A320 Throttle 1 & 2
 STRING Vive Cosmos Controller====Vive Cosmos Controller
 STRING T.Flight Hotas 4 (PlayStation)====T.Flight Hotas 4 (PlayStation)
-#STRING You can ask questions and help others on the X-Plane Question & Answer site. Go to questions.x-plane.com to join the community.====您可以在X-Plane的問答介面提問，或者説明其他人解決他們的問題。前往questions.x-plane.com來加入討論。
-#STRING No compatible Vulkan device was found====未找到相容的Vulkan設備
-#STRING %1:Device name% has a very large null zone set.====%1:Device name%有非常大的控制死區
-#STRING * Recommended Radio Frequency====* 推薦無線電頻率
-#STRING 1) Go to X-Plane.com and get a key to unlock the G1000 functionality.====1)  去X-Plane.com獲得一個解鎖G1000所有功能的金鑰。
-#STRING 2) Purchase a G1000 from a site such as FlyPFC.com.====從類似於FlyPFC.com的網站中購買G1000
-#STRING <         2x time-speed         >====<         2倍速         >
-#STRING <         4x time-speed         >====<         4倍速         >
-#STRING <         6x time-speed         >====<         6倍速         >
-#STRING <         8x time-speed         >====<         8倍速         >
-#STRING <        16x time-speed         >====<         16倍速         >
-#STRING <        2x ground-speed        >====<        2倍地速        >
-#STRING <        4x ground-speed        >====<        4倍地速        >
-#STRING <        6x ground-speed        >====<        6倍地速        >
-#STRING <        8x ground-speed        >====<         8倍地速         >
-#STRING <        Anchor deployed        >====<       已放錨        >
-#STRING <       16x ground-speed        >====<         16倍地速         >
-#STRING <       Space bar to drop       >====<       按下空白鍵投放       >
-#STRING <     Space bar to separate     >====<     按下空白鍵釋放     >
-#STRING <    Release brakes for winch   >====<    鬆開絞車刹車   >
-#STRING <    Release brakes to launch   >====<    鬆開刹車發射   >
-#STRING <   Release brakes to take off  >====<   鬆開刹車起飛  >
-#STRING <   Space bar to release winch  >====<   按下空白鍵釋放絞車  >
-#STRING < Space bar to release tow rope >====< 按下空白鍵釋放拖繩 >
-#STRING < variable ground-speed for fps >====< 顯示幀率影響下的可變地速倍率 >
-#STRING A device running ForeFlight, WingX Pro, or SkyDemon (%1:IP address%)====運行ForeFlight、 WingX Pro或 SkyDemon的設備 (%1:IP address%)
-#STRING A stall in an aircraft is a sudden loss of lift when the angle of attack is too high. This is initiated by the steep raising of an aircraft's nose, resulting in a loss of velocity and an abrupt drop. Correct this by immediately by lowering the nose and adding power.====飛行上的失速是在高攻角情況下突然失去升力的現象。一般始於機頭急劇上升，造成速度和高度急劇降低，通過壓低機鼻並增加推力的方式來改出。
-#STRING A variety of third-party apps can receive AHRS data from X-Plane, allowing you to use them with your simulator as though you were sitting in a real cockpit.====各種各樣的協力廠商應用程式可以從X-Plane接收AHRS（姿態航向基準系統 ）資料，讓您可以像仿佛坐在真正的駕駛艙中一樣，在模擬器中使用它們。
-#STRING ABOUT THE X-PLANE DEMO====關於X-PLANE試用版
-#STRING ABack-course on, 0/1.====A反航道模式啟動， 0/1。
-#STRING AIRPORT & NAVAID DATA====機場和導航點數據
-#STRING AUTO-DEFLECTIONS====自動偏轉
-#STRING AUTO-SWEEP====自動掃描
-#STRING Add Growls====Add Growls
-#STRING Add Simulator to Control====添加模擬器以進行控制
-#STRING Add or Remove Scenery Now====現在添加或刪除地景
-#STRING Aileron trim left.====副翼左配平
-#STRING Aileron trim right.====副翼右配平
-#STRING Airfoil====翼型
-#STRING All devices on the network running ForeFlight, WingX Pro, or SkyDemon====局域網中運行的ForeFlight, WingX Pro, SkyDemon設備
-#STRING Allow a networked IOS to control this machine====允許網路上的教員操縱臺控制這台機器
-#STRING Always try to touch down within the first few feet of the end of the runway. Learning to do this consistently will greatly increase your piloting skills.====總是試著在跑道一端起始的幾英尺處著陸，堅持做這件事會大幅提升你的飛行技術（注：中國等地區規定需要在跑道畫出的接地區著陸，俗稱“大白塊”）
-#STRING Always try to touch down within the first few feet of the end of the runway. Learning to do this consistently will greatly increase your piloting skills.====總是試著在跑道一端起始的幾英尺處著陸，堅持做這件事會大幅提升您的飛行技術（注：中國等地區規定需要在跑道畫出的接地區著陸，俗稱“大白塊”）
-#STRING An IOS (%1:IP address%) controlling this simulator====一台教員操縱臺設備在控制模擬器(%1:IP address%)
-#STRING An IOS (%1:IP address%) that incorrectly thinks this machine is a master simulator====一台教員操縱臺錯誤的認為這台機器是主模擬器(%1:IP address%)
-#STRING An X-Plane machine (%1:IP address%) controlled by this IOS====被教員操縱臺控制的X-Plane模擬器(%1:IP address%)
-#STRING An X-Plane machine (%1:IP address%) that incorrectly thinks this machine is an IOS====一台X-Plane設備(%1:IP address%)錯誤地認為這台機器是教員操縱臺
-#STRING Anti-ice: all wing, de-ice off.====防冰：機翼除冰關閉。
-#STRING Anti-ice: all wing, de-ice on.====防冰：機翼除冰開啟。
-#STRING Anti-ice: all wing, de-ice toggle.====防冰：機翼除冰開關
-#STRING Anti-ice: left wing, de-ice off.====防冰：左機翼除冰關閉。
-#STRING Anti-ice: left wing, de-ice on.====防冰：左機翼除冰開啟。
-#STRING Anti-ice: left wing, de-ice toggle.====防冰：左機翼除冰開關
-#STRING Anti-ice: right wing, de-ice off.====防冰：右機翼除冰關閉。
-#STRING Anti-ice: right wing, de-ice on.====防冰：右機翼除冰開啟。
-#STRING Anti-ice: right wing, de-ice toggle.====防冰：右機翼除冰開關
-#STRING Art Stab====水準安定面和垂直安定面
-#STRING Auto-throttle mode: off=0, on=1====自動油門模式：0為關閉，1為啟用。
-#STRING Autopilot altitude mode: 3=pitch sync, 4=vvi, 5=airspeed, 6=airspeed with alt arm, 7=alt hold, 8=terrain-follow, 9=glideslope hold====自動駕駛儀高度保持模式：3為仰角同步，4為垂直速率同步，5為空速模式，6為空速和高度模式，7為高度保持模式，8為地形航行模式，9為下滑道模式。
-#STRING Autopilot altitude selection, feet MSL indicated.====自動駕駛儀高度選擇，表示海拔高度。
-#STRING Autopilot auto-throttle off.====自動駕駛自動油門關閉
-#STRING Autopilot auto-throttle on.====自動駕駛自動油門打開
-#STRING Autopilot auto-throttle toggle.====自動駕駛自動油門開關
-#STRING Autopilot heading mode: 0=wing-level, 1=heading, 2=localizer or other CDI====自動駕駛儀航向保持模式：0為翼平，1為航向模式，2為下滑道模式或其他航向控制（CDI）模式
-#STRING Autopilot heading selection, degrees magnetic.====自動駕駛儀磁航向選擇。
-#STRING Autopilot is holding knots or mach number (knots=0, mach=1)====表示自動駕駛儀保持以節或馬赫為單位等待航速（0為節，1為馬赫）。
-#STRING Autopilot pitot static source, 0 or 1====自動駕駛靜壓源 0或1
-#STRING Autopilot speed selection, knots or Mach number.====自動駕駛儀速度選擇，以節或馬赫作單位。
-#STRING Autopilot vertical speed selection, feet per minute====自動駕駛儀垂直速率選擇，以 英尺/分鐘 作單位。
-#STRING Autopilot wing-level.====自動駕駛坡度水準
-#STRING Aviators worldwide use a phonetic alphabet: ALPHA BRAVO CHARLEY DELTA ECHO FOXTROT GOLF HOTEL INDIA JULIET KILO LIMA MIKE NOVEMBER OSCAR PAPA QUEBEC ROMEO SIERRA TANGO UNIFORM VICTOR WHISKY X-RAY YANKEE ZULU====全世界的航空從業者所用的字母表：ALPHA BRAVO CHARLEY DELTA ECHO FOXTROT GOLF HOTEL INDIA JULIET KILO LIMA MIKE NOVEMBER OSCAR PAPA QUEBEC ROMEO SIERRA TANGO UNIFORM VICTOR WHISKY X-RAY YANKEE ZULU（無線電字母讀法）
-#STRING Avionics overhead====電子設備過熱
-#STRING BODY DATA====數據
-#STRING Barometric pressure dialed into the altimeter, inches HG.====輸入至高度計中的氣壓值，以英寸汞柱作單位。
-#STRING Baron B58 6.00 (version 0500.02)====男爵 B58 6.00 （版本 0500.02）
-#STRING Batoh Device / PlayStation 3 Controller====Batoh 設備 / PlayStation 3 控制器
-#STRING Bitmap====點陣圖
-#STRING Block msg 1====Block msg 1
-#STRING Brakes not found! ====無法找到刹車感測器！ 
-#STRING Broadcast to all copies of ForeFlight, WingX Pro, Aerovie,\nFltPlan Go, SkyDemon & Garmin Pilot on the network====向網路上所有以下程式廣播：ForeFlight、WingX Pro、Aerovie、 \nFltPlan Go、SkyDemon、Garmin Pilot
-#STRING Broadcast to all copies of ForeFlight, WingX Pro, Aerovie,\nand SkyDemon on the network====廣播到ForeFlight、WingX Pro、Aerovie、\nand SkyDemon在網路上的所有副本
-#STRING Broadcast to all third-party apps on the network====向網路中的所有協力廠商應用程式廣播資料
-#STRING Buy the X-Plane 11 digital download now from X-Plane.com to get instant access to the full simulator!====現在從X-Plane.com購買X-Plane 11數字下載版解鎖完整版模擬器！
-#STRING CONTROL Deflection RATES====控制偏移率
-#STRING Capture video in background====在後臺錄製視頻
-#STRING Carburator ice suspected.====懷疑出現化油器積冰。
-#STRING Carburetor ice suspected!====化油器結冰！
-#STRING Cascade rotor failure 12====級聯轉子失效 1 2
-#STRING Cascade rotor failure 34====級聯轉子失效 3 4
-#STRING Cascade rotor failure 56====級聯轉子失效 5 6
-#STRING Cascade rotor failure 78====級聯轉子失效 7 8
-#STRING Cessna 172S 7.01 (version 0563.00)====賽斯納 172S 7.01 （版本 0563.00）
-#STRING Cessna 182T 7.01 (version 0563.00)====賽斯納 182T 7.01 （版本 0563.00）
-#STRING Change Growl mode====Change Growl mode
-#STRING Change Livery and Keep Flying====更改塗裝並繼續飛行
-#STRING Clicking "%1:button label%" below will undo any joystick change you have made and reconfigure X-Plane to use the defaults for this device.====點擊下方的 "%1:button label%" 將會撤銷所有搖杆設置並將其重置回默認設置。
-#STRING Clicking Delete will permanently remove the profile "%1:profile name%" from X-Plane.====點擊刪除後將會把 "%1:profile name%"從X-Plane中永久移除。
-#STRING Clicking “Reset All Keyboard Configuration” below will undo any key bindings you have made and reconfigure X-Plane to use the default keyboard shortcuts.\n\nIf this was not your intention, click Cancel.====按一下下面的 "重置所有鍵盤配置" 將會撤銷您所做的任何鍵位設置, 並重新配置 X-Plane使用的預設鍵盤快速鍵. 如果這不是您的本意, 請按一下 "取消"。
-#STRING Clouds & precipitation====雲和降水
-#STRING Clouds====有雲
-#STRING Cockpit Object:====駕駛艙對象：
-#STRING Cockpit Object====駕駛艙項目
-#STRING Columbia 400 6.00 (version 0530.02)====哥倫比亞 400 6.00 (版本 0530.02)
-#STRING Complete Installation Now====現在完成安裝
-#STRING Control Deflection Speeds and Limits====偏轉控制系統速度和限制
-#STRING Control Forces====力量控制
-#STRING Copilot DG sync down.====右座駛差動同步放大器 ↓
-#STRING Copilot DG sync up.====右座駛差動同步放大器 ↑
-#STRING Cylinder Head Temperature, per engine.====每個引擎的汽缸蓋溫度。
-#STRING DG sync down.====陀螺方位儀航向磁偏角同步修正下調
-#STRING DG sync up.====陀螺方位儀航向磁偏角同步修正上調
-#STRING DIFFERENTIAL THRUST-VECTOR FOR MANEUVERING====不同的向量發動機的操作係數
-#STRING DOWNLOADING UPDATE====下載更新
-#STRING DYNAMIC FLAP ACTUATION====動態襟翼驅動
-#STRING Date Saved====資料已保存
-#STRING Decision height dialed into the radio alt, feet AGL.====輸入至無線電高度計中的距地決斷高度。
-#STRING Decrease the throttle all the way down to idle and watch the plane slow down again.====將節流閥減小到慢車位，觀察飛機減速的過程。
-#STRING Distance====距離
-#STRING Don’t forget to extend the landing gear.====不要忘記放出起落架。
-#STRING Dump fuel.====放油
-#STRING Dynamically control weather, create aircraft failures and more with Control Pad for X-Plane. It is a free App from the Apple App Store that allows you to control X-Plane without pausing the simulation. ====用“Control Pad for X-Plane”應用來動態控制天氣，設置飛機故障及其他。這是一個在App Store可以下載的免費應用，可以讓您在不暫停的情況下操作X-Plane。 
-#STRING ENTER DATA POINTS HERE TO CHECK THRUST.====在此處輸入資料點以確認推力。
-#STRING EXTRA INPUTS FOR AUTO-GYROS====自動陀螺儀的其他輸入
-#STRING EXTRA INPUTS FOR JETS====噴氣機的額外輸入
-#STRING EXTRA INPUTS FOR ROTORS====旋翼的額外輸入
-#STRING EXTRA INPUTS FOR TILT-ROTORS AND HELOS====直升機傾斜轉子的其他輸入
-#STRING Edge Blend====邊緣混合
-#STRING Elec system overhead====電子系統過熱
-#STRING Electric lower torque====電子下轉矩
-#STRING Electric motor====電動機
-#STRING Electric upper torque====電子上轉矩
-#STRING Elevator trim, -1.0 is nose down, 1.0 is nose up.====升降舵配平，-1.0表示向下，1.0表示向上。
-#STRING Enable VNAV====啟用垂直導航
-#STRING Enable WAAS====啟用廣域增強系統類比
-#STRING Enable generator audio====啟用音訊發生器****
-#STRING Enable physical G1000 PFD and MFD====啟用G1000的主飛行顯示和多功能顯示
-#STRING Engine Manifold Pressure, per engine.====每個引擎的多重壓力。
-#STRING Engine Pressure Ratio, per engine.====每個發動機的壓率比。
-#STRING Engine torque, per engine.====每個引擎的扭矩。
-#STRING Exhaust Gas Temperature, per engine.====每個引擎的引氣溫度。
-#STRING Exhaust gas Temperature, per engine.====每個引擎的排氣溫度。
-#STRING F1 and F2 for throttle!====按F1和F2以調節節流閥！
-#STRING FLAP SPECS====襟翼規格
-#STRING FMS external====外置FMS
-#STRING FMS interal====內置FMS
-#STRING FMS1 displays off screen data====FMS1資料顯示超出螢幕邊界
-#STRING FMS1 has a pending message====FMS1有一條待處理消息
-#STRING FMS1 wants pending changes executed====FMS1需要執行所做的更改
-#STRING FMS2 displays off screen data====FMS2資料顯示超出螢幕邊界
-#STRING FMS2 has a pending message====FMS2有一條待處理消息
-#STRING FMS2 wants pending changes executed====FMS2需要執行所做的更改
-#STRING FMS====FMS
-#STRING FOREFLIGHT, WINGX PRO, FLTPLAN GO, SKYDEMON, OR GARMIN PILOT====FOREFLIGHT、WINGX PRO、 FLTPLAN GO、SKYDEMON或GARMIN PILOT
-#STRING FOREFLIGHT, WINGX PRO, OR SKYDEMON====FOREFLIGHT, WINGX PRO, 或 SKYDEMON
-#STRING File Location====檔位置
-#STRING Flap handle position, 0.0 is retracted, 1.0 is extended.====襟翼手柄的位置，0.0表示完全收起，1.0表示完全展開。
-#STRING Flap-1 deflection ratio, 0.0 is retracted, 1.0 is extended.====襟翼-1伸展值，0.0表示完全收起，1.0表示完全展開。
-#STRING Flight Data Recorder file====飛行資料記錄器檔
-#STRING Flight Data====飛行資料
-#STRING Flight control hardware not found!====未找到飛控設備！
-#STRING Flight control hardware not found====未找到飛控設備。
-#STRING Flight director on, 0/1.====飛行指示器啟用， 0/1。
-#STRING Flight director pitch, degrees, positive up.====飛行指示器的仰角，以度為單位，正為向上。
-#STRING Flight director roll, degrees, positive right.====飛行指示器的側轉角度，以度為單位，正為向右。
-#STRING Fly to Learn Introduction====Fly to Learn Introduction
-#STRING Follow the hoop guidance to practice banking, climbing, and diving.====跟隨環形指引來練習側傾、爬升以及俯衝。
-#STRING Force Maximums====力度最大
-#STRING Force reloading the current aircraft.====強制重新載入當前航空器。
-#STRING Frame rate check failed! Flight control hardware not found!====幀數檢查失敗！未找到飛控設備！
-#STRING Frame rate check failed!====幀數檢查失敗！
-#STRING Fuel Flow, per engine.====每個引擎的燃油流速。
-#STRING G1000 pilot AP NVAV.====G1000 機長 AP NVAV
-#STRING G1000 pilot com audio.====G1000 機長 com 音訊
-#STRING G1000 pilot com flip flop.====G1000 機長 com 觸發器
-#STRING G1000 pilot com inner ring tune down.====G1000 機長 com 細旋鈕↓
-#STRING G1000 pilot com inner ring tune up.====G1000 機長 com 細旋鈕↑
-#STRING G1000 pilot com outer ring tune down.====G1000 機長 com 粗旋鈕↓
-#STRING G1000 pilot com outer ring tune up.====G1000 機長 com 粗旋鈕↑
-#STRING G1000 software version====G1000軟體版本
-#STRING G430 (copilot)====G430（副機長）
-#STRING G430 (pilot)====G430（機長）
-#STRING G430 COM/NAV 1 coarse down.====G430 COM/NAV 1 細選擇 ↓
-#STRING G430 COM/NAV 1 coarse up.====G430 COM/NAV 1 細選擇 ↑
-#STRING G430 COM/NAV 1 fine down.====G430 COM/NAV 1 粗選擇 ↓
-#STRING G430 COM/NAV 1 fine up.====G430 COM/NAV 1 粗選擇 ↑
-#STRING G430 COM/NAV 2 coarse down.====G430 COM/NAV 2 粗選擇 ↓
-#STRING G430 COM/NAV 2 coarse up.====G430 COM/NAV 2 粗選擇 ↑
-#STRING G430 COM/NAV 2 fine down.====G430 COM/NAV 2 細選擇 ↓
-#STRING G430 COM/NAV 2 fine up.====G430 COM/NAV 2 細選擇 ↑
-#STRING G430 NAV 1 CDI.====G430 NAV 1 CDI
-#STRING G430 NAV 1 CLR.====G430 NAV 1 清除
-#STRING G430 NAV 1 COM audio.====G430 NAV 1 COM音訊
-#STRING G430 NAV 1 COM flip flop.====G430 NAV 1 COM觸發器
-#STRING G430 NAV 1 Direct.====G430 NAV 1 Direct
-#STRING G430 NAV 1 ENT.====G430 NAV 1 回車
-#STRING G430 NAV 1 FPL.====G430 NAV 1 FPL
-#STRING G430 NAV 1 MSG.====G430 NAV 1 MSG
-#STRING G430 NAV 1 Menu.====G430 NAV 1 菜單
-#STRING G430 NAV 1 NAV COM toggle.====G430 NAV 1 NAV COM 選擇
-#STRING G430 NAV 1 NAV audio====G430 NAV 1 NAV音訊
-#STRING G430 NAV 1 NAV flip flop.====G430 NAV 1 NAV觸發器
-#STRING G430 NAV 1 OBS.====G430 NAV 1 OBS
-#STRING G430 NAV 1 PROC.====G430 NAV 1 PROC
-#STRING G430 NAV 1 VNAV.====G430 NAV 1 VNAV
-#STRING G430 NAV 1 chapter dn.====G430 NAV 1 章節 ↓
-#STRING G430 NAV 1 chapter up.====G430 NAV 1 章節 ↑
-#STRING G430 NAV 1 page dn.====G430 NAV 1 頁面 ↓
-#STRING G430 NAV 1 page up.====G430 NAV 1 頁面 ↑
-#STRING G430 NAV 1 pop out window.====G430 NAV 1 彈出小窗
-#STRING G430 NAV 1 push cursor.====G430 NAV 1
-#STRING G430 NAV 1 toggle popup.====G430 NAV 1 設置彈出小窗
-#STRING G430 NAV 1 zoom in.====G430 NAV 1 縮放 +
-#STRING G430 NAV 1 zoom out.====G430 NAV 1 縮放 -
-#STRING G430 NAV 2 CDI.====G430 NAV 2 CDI
-#STRING G430 NAV 2 CLR.====G430 NAV 2 CLR
-#STRING G430 NAV 2 COM FF.====G430 NAV 2 COM FF
-#STRING G430 NAV 2 COM audio.====G430 NAV 2 COM 音訊
-#STRING G430 NAV 2 Direct.====G430 NAV 2 Direct
-#STRING G430 NAV 2 ENT.====G430 NAV 2 ENT
-#STRING G430 NAV 2 FPL.====G430 NAV 2 FPL
-#STRING G430 NAV 2 MSG.====G430 NAV 2 MSG
-#STRING G430 NAV 2 Menu.====G430 NAV 2 菜單
-#STRING G430 NAV 2 NAV COM toggle.====G430 NAV 2 NAV COM 選擇
-#STRING G430 NAV 2 NAV FF.====G430 NAV 2 NAV FF
-#STRING G430 NAV 2 NAV audio.====G430 NAV 2 NAV 音訊
-#STRING G430 NAV 2 OBS.====G430 NAV 2 OBS
-#STRING G430 NAV 2 PROC.====G430 NAV 2 PROC
-#STRING G430 NAV 2 VNAV.====G430 NAV 2 VNAV
-#STRING G430 NAV 2 chapter dn.====G430 NAV 2 章節 ↓
-#STRING G430 NAV 2 chapter up.====G430 NAV 2 章節 ↑
-#STRING G430 NAV 2 page dn.====G430 NAV 2 頁面 ↓
-#STRING G430 NAV 2 page up.====G430 NAV 2 頁面 ↑
-#STRING G430 NAV 2 pop out window.====G430 NAV 2 快顯視窗
-#STRING G430 NAV 2 push cursor.====G430 NAV 2 按下游標*
-#STRING G430 NAV 2 toggle popup.====G430 NAV 2 開關彈窗
-#STRING G430 NAV 2 zoom in.====G430 NAV 2 縮放 +
-#STRING G430 NAV 2 zoom out.====G430 NAV 2 縮放 -
-#STRING GARMIN 1000====GARMIN 1000
-#STRING GDU version====Garmin顯示單元版本
-#STRING GIA part====Garmin綜合航空電子系統部件
-#STRING GIA version====Garmin綜合航空電子系統版本
-#STRING Garmin 1000====Garmin 1000
-#STRING Gear #1 (nose?) deployment ratio: 0.0 is retracted, 1.0 is down.====起落架 #1 (機鼻?) 釋放比: 0.0表示完全收起, 1.0表示完全放下。
-#STRING Gear #2 (left?) deployment ratio: 0.0 is retracted, 1.0 is down.====起落架 #2 (左側起落架?) 釋放比: 0.0表示完全收起, 1.0表示完全放下。
-#STRING Gear #3 (right?) deployment ratio: 0.0 is retracted, 1.0 is down.====起落架 #3 (右側起落架?) 釋放比: 0.0表示完全收起, 1.0表示完全放下。
-#STRING Gear handle: 0 is up, 1 is down.====起落架手柄，0表示收起，1表示放下。
-#STRING Gear over-speed!====起落架超速！
-#STRING Generic====通用
-#STRING Get some more flight practice, then see if you can recover from an unexpected emergency.====獲得更多的飛行練習，然後看看您是否能從意外的緊急情況中恢復過來。
-#STRING Global MTBF applies in addition to failures selected above====除上面選中的故障之外，應用設定的全域平均無故障時間
-#STRING Go to saved 3-D cockpit location #%1:index%.====進入存儲的3D駕駛艙視角位置 #%1:index% 。
-#STRING Got it!====Got it!
-#STRING Great job so far!====幹得不錯！
-#STRING Grid Adjust====調整網格
-#STRING Ground Proximity Warning, 0/1.====近地告警系統，0/1。
-#STRING HOTAS Cougar====HOTAS Cougar
-#STRING Height above mean sea level, in TRUE feet, regardless of any barometric pressure settings or other errors.====平均海拔高度為TRUE，這不受氣壓設置或者其他誤差的影響。
-#STRING Hit 'b' to toggle the brakes!====按"b"以切換刹車狀態！
-#STRING Horizontal (localizer) deflection, -2.5 to 2.5 dots, positive fly right.====水準（航向道）偏轉，範圍從-2.5至2.5，正為向右航行。
-#STRING Hydraulic Force Increase====液壓壓力上升
-#STRING I found an area with no scenery installed! You will see nothing but water around the airports since no scenery is installed for this area!====我發現了一個沒有安裝地景的位置！未安裝地景的地方只會顯示機場和機場地面周圍的水面。
-#STRING I smell fire!====聞著好像是著火了！
-#STRING INVERTERS====變流器
-#STRING If you have a real Garmin 1000, first set your IP address to 172.16.1.1 and subnet to 255.255.0.0, then check this box.====如果您有一個真正的Garmin 1000，首先將您的IP位址設置為172.16.1.1，並將子網設置為255.255.0.0，然後選中此框。
-#STRING If you want to run a real G11000 with X-Plane, you have 2 steps to complete to do this:====如果你想在X-Plane運行一個真實的G1000，你需要完成以下2步：
-#STRING If you want to run a real G11000 with X-Plane, you have 2 steps to complete to do this:====如果您想在X-Plane運行一個真實的G1000，您需要完成以下2步：
-#STRING Increasing this slider will increase the number of objects drawn at airports. This impacts your CPU usage, so if you have a very powerful CPU, you can set this to High or even Max without impacting your frame rate too much.====增加此項將增加在機場繪製的物件數量。這會影響您的CPU使用率，因此，如果您的CPU性能足夠強，則可以將其設置為高或甚至最大，而不會影響幀率。
-#STRING Indicated rate-of-turn, degrees per second positive right.====表示以 度/秒 為單位的轉向度，正為向右。
-#STRING Indicated slip in degrees, positive nose-right.====表示以度為單位的下滑度，正為機鼻朝右。
-#STRING Interaction====相互作用
-#STRING It looks like the left engine is going out! Honolulu airport is right in front of us now, so let's just make it down to the runway.====看樣子左側引擎要完蛋；火奴魯魯機場就在前面，咱儘量把飛機落在跑道上。
-#STRING Jet Curves 1====噴氣曲線（Jet Curves）1
-#STRING Jet Curves 2====噴氣曲線（Jet Curves）2
-#STRING Jet Curves====噴漆曲線
-#STRING Joystick Button====搖杆按鍵
-#STRING Latitude, in degrees.====緯度。
-#STRING Let's keep practicing to really get familiar with how controlling the aircraft works.====讓我們通過繼續練習來熟悉飛行操縱的原理。
-#STRING Loading bitmap ====載入點陣圖 
-#STRING Log Book====日誌
-#STRING Longitude, in degrees.====經度。
-#STRING Lower rotor battery failure====下部轉子電池失效
-#STRING Lower rotor controller failure====下部轉子失效
-#STRING MAX BATTERY POWER OUTPUT TO ELECTRIC MOTORS WITH STATE OF CHARGE====電池最大向電動機輸出功率與電量狀態
-#STRING Make sure you save this password in a safe place, because you"ll need it to disable kiosk mode in the future.====請確認密碼已保存妥當，在之後你將需要此密碼來解鎖展臺模式。
-#STRING Make sure you save this password in a safe place, because you"ll need it to disable kiosk mode in the future.====請確認密碼已保存妥當，在之後您將需要此密碼來解鎖展臺模式。
-#STRING Map mode: 0 through 4 can give sme different map results.====地圖模式：0至4將會呈現不同模式的地圖。
-#STRING Master Caution alerting, 0/1.====主注意，0/1。
-#STRING Master Warning alerting, 0/1.====主警告，0/1。
-#STRING Mixtures not found! ====無法找到混合比感測器！ 
-#STRING Modal msg 1====Modal msg 1
-#STRING Monitor audio: ADF2.====監聽音訊：ADF2
-#STRING Monitor audio: COM1.====監聽音訊：COM1
-#STRING Monitor audio: COM2.====監聽音訊：COM2
-#STRING Monitor audio: DME.====監聽音訊：DME
-#STRING Monitor audio: MKR.====監聽音訊：MKR
-#STRING Monitor audio: NAV1.====監聽音訊：NAV1
-#STRING Monitor audio: NAV2.====監聽音訊：NAV2
-#STRING Move the mouse over any column to see its description.====移動滑鼠至目標欄上，以檢視相關描述。
-#STRING Mute marker beacons.====指點信標靜音
-#STRING N1, per engine.====每個引擎的低壓轉子轉速。
-#STRING N2, per engine.====每個引擎的中/高壓轉子轉速。
-#STRING NOTE: Since X-Plane was not able to store your product key information to preferences, you will not be able to authorize the simulator using a digital download key. Contact tech support at info@x-plane.com for help resolving this issue.====注意：由於X-Plane無法將您的產品金鑰資訊存儲到首選項，您將無法使用數位下載產品金鑰下載模擬器。 請通過info@x-plane.com尋求客戶支援，以説明解決此問題。
-#STRING Nav-1 NAV/TO/FROM: nav=0, to=1, from=2.====NAV-1的NAV/TO/FROM模式: 0表示NAV模式, 1表示TO模式, 2表示FROM模式。
-#STRING Nav-1 frequency, in a 5-digit integer form with no decimal, like 12150.====Nav-1頻率,格式為不加數點的5位元整數,例如12150。
-#STRING Nav-1 type. NONE=0, NDB=2, VOR=3, LOC=5, ILS=10.====NAV-1類型，0表示無，2表示NBD模式，3表示VOR模式，5表示LOC模式，10表示ILS模式。
-#STRING Nav-2 frequency, in a 5-digit integer form with no decimal, like 12150====Nav-2頻率,格式為不加數點的5位元整數,例如12150。
-#STRING Nav-2 type. NONE=0, NDB=2, VOR=3, LOC=5, ILS=10.====NAV-2類型，0表示無，2表示NBD模式，3表示VOR模式，5表示LOC模式，10表示ILS模式。
-#STRING Networking beacon initialization failed.====網路信標初始化失敗。
-#STRING Nice job!====幹得不錯！
-#STRING No Pro-Use Key found. G1000 support will not be allowed.====2)  無法找到專用金鑰，將不會提供對G1000設備的支援。
-#STRING Number of Airport Objects====機場建築數量
-#STRING OBS-1, in degrees 0 to 360.====OBS-1度數，範圍從0至360。
-#STRING OBS-2, in degrees 0 to 360.====OBS-2度數，範圍從0至360。
-#STRING OK quick lesson!====好的，開始進入練習！
-#STRING OTHER DEVELOPERS====其他研發人員
-#STRING Object====物體
-#STRING Octo-Rotors====八旋翼
-#STRING Open ====打開 
-#STRING Or, if you don’t have a DVD, you can purchase the X-Plane 11 digital download from X-Plane.com to get instant access to the full simulator.====如果您沒有光碟的話，您可以從X-Plane.com購買X-Plane 11的數字下載版以獲得完整版。
-#STRING Or, if you don’t have a product key, you can purchase the X-Plane 11 digital download from X-Plane.com to get instant access to the full simulator.====如果您沒有產品金鑰，您可以從X-Plane.com購買X-Plane 11的數字下載版以獲得完整版。
-#STRING Over marker, 0/1====越過信標點， 0/1
-#STRING PROJECT MANAGER====產品經理
-#STRING PROPELLER 1====螺旋槳1
-#STRING PROPELLER 2====螺旋槳2
-#STRING PROPELLER 3====螺旋槳3
-#STRING PROPELLER 4====螺旋槳4
-#STRING PROPELLER 5====螺旋槳5
-#STRING PROPELLER 6====螺旋槳6
-#STRING PROPELLER 7====螺旋槳7
-#STRING PROPELLER 8====螺旋槳8
-#STRING Particle System====顆粒系統
-#STRING Pitch control down====控制仰角向下
-#STRING Pitch control up====控制仰角抬升
-#STRING Pitch in degrees, positive up.====仰角度數，正為向上。
-#STRING Pitch not found! ====無法找到俯仰感測器！ 
-#STRING Plain flaps are the simplest type of flap. It is simply a control surface that pivots down, producing some extra lift and bit of drag.====簡單襟翼是各類襟翼中最簡單的一種。它是一個能夠繞指點向下旋轉，並提供更多升力與阻力的操縱面。
-#STRING Point msg 1 (5 seconds)====Point msg 1 (5 seconds)
-#STRING Port we send from====本機發送埠
-#STRING Prop #1====螺旋槳1
-#STRING Prop #====螺旋槳
-#STRING Prop Geo====螺旋槳形狀
-#STRING Propeller RPM actual, per engine.====每個螺旋槳引擎的準確轉速。
-#STRING Propeller RPM command, per engine.====每個引擎的螺旋槳轉速。
-#STRING Propeller pitch, in degrees, per engine.====以度為單位的每個螺旋槳引擎的角度。
-#STRING Props not found! ====無法找到油門感測器！ 
-#STRING Quick start engines to running, instant.====快速啟動引擎至運行，不耗時間立即啟動。
-#STRING RENDERING OPTIONS====渲染選項
-#STRING RESET ALL GRID OFFSETS TO DEFAULT====將所有網格設置為預設值
-#STRING Radial====徑向
-#STRING Re-Scan====重新掃描
-#STRING Re-run the X-Plane installer and choose "Update" to replace the missing file.====重新運行X-Plane並點擊“升級”以替換缺失檔。
-#STRING Re-run the X-Plane installer/updater to correct this problem.====重新運行X-Plane安裝/更新程式以解決該問題。
-#STRING Regenerate icons for current aircraft====重新生成當前飛機的圖示
-#STRING Reload the Current Aircraft====重新載入當前飛機
-#STRING Ren Opts====Ren Opts
-#STRING Roll control left====側轉控制向左
-#STRING Roll control right====側轉控制向右
-#STRING Roll in degrees, positive right.====側轉度數，正為向右。
-#STRING Roll not found! ====無法找到橫滾感測器！ 
-#STRING Rudder trim left.====方向舵左配平
-#STRING Rudder trim right.====方向舵右配平
-#STRING SET BYPASS AND INLET MACH FOR THIS PLANE, TO BE USED IN X-PLANE!====設定飛機旁通與輸入的馬赫數；此數值將在X-Plane中應用。
-#STRING SOLAR-POWER====太陽能
-#STRING SPECIAL CONTROL DEFLECTIONS====特殊的一些控制偏轉係數
-#STRING Save ====保存 
-#STRING Save as Default for %1:Device Name%====另存為
-#STRING See the file “Sending Data to X-Plane.rtfd” in your X-Plane directory’s Instructions folder for more information.====有關詳細資訊，請參閱X-Plane目錄的“Instructions”資料夾中的“Sending Data to X-Plane.rtfd”文件。
-#STRING Set global mean time between failures====設定平均故障時長
-#STRING Shear Amount====風切量
-#STRING Shortcut Key====快速鍵
-#STRING Simulator machine controlled by this IOS (%1:IP address%)====由教員操縱臺設備控制的模擬器(%1:IP address%)
-#STRING Slat-1 deflection ratio, 0.0 is retracted, 1.0 is extended.====前緣翼縫-1伸展值，0.0表示完全收起，1.0表示完全展開。
-#STRING Software version must match the G1000’s MDF upper right at startup.====啟動時，軟體版本必須與G1000的右上角顯示的版本匹配。
-#STRING Speedbrake deflection ratio, 0.0 is retracted, 1.0 is extended, 1.5 is ground-deployed.====減速板比，0.0表示完全收起，1.0表示完全展開，1.5表示在地面使用。
-#STRING Spoolup/Boost====加快轉速/加速
-#STRING Spring and Damping====彈簧減震阻尼
-#STRING Stall and Shaker====失速振盪器
-#STRING Stall warning, 0 to 1.====失速警告，範圍從0至1。
-#STRING Start at %1:start location%====在 %1:start location%開始
-#STRING Support for a physical G1000 unit is unavailable, since you don’t have a Pro-Use USB key.====由於您沒有專業用途的USB金鑰，所以不支援物理的G1000設備。
-#STRING T-Flight Hotas X Flight Stick====T-Flight Hotas X Flight Stick 飛行搖杆
-#STRING THIRD-PARTY APPS====協力廠商應用
-#STRING THRUST FRACTION OF MAX SEA-LEVEL STATIC THRUST, WHICH WILL BE USED IN X-PLANE.====推力占海平面最大靜推力的分數；此數值將在X-Plane中應用。
-#STRING TRIM Deflections for AIRPLANES====飛行器配平偏移
-#STRING TRIM Deflections for HELOS====直升機配平偏移
-#STRING Temperature, in degrees C, of the ambient air near the airplane, at your current altitude.====您當前所處高度的飛機周圍溫度（攝氏度）。
-#STRING The single-student IOS machine controlling this simulator (%1:IP address%)====控制此模擬器的IOS設備(%1:IP address%)
-#STRING These apps can receive AHRS data from X-Plane, allowing you to use those apps with your simulator as though you were sitting in a real cockpit.====這些應用程式可以從X-Plane接收AHRS資料，您的模擬器允許您使用這些應用程式，就像您坐在真正的駕駛艙中一樣。
-#STRING This graph shows how much of that maximum power is available per-battery as a function of the battery state of charge.====該圖表顯示了每個電池可用最大功率關於電池電量狀態的函數。
-#STRING This indicates a problem with your local network.====這表示您的本地網路出現問題。
-#STRING This installer will guide you through the process of installing the X-Plane 11 Demo.=====此安裝程式將會引導您安裝X-Plane 11的試用版。
-#STRING This is the aileron deflection, in ratio -1.0 (left) to +1.0 (right)====這是副翼比，範圍從-1.0（偏左）至+1.0（偏右）
-#STRING This is the elevator deflection, in ratio -1.0 (nose down) to +1.0 (nose up)====這是升降舵比，範圍從-1.0（機鼻向下）至+1.0（機鼻向上）
-#STRING This is the rudder deflection, in ratio -1.0 (left) to +1.0 (right)====這是方向舵比，範圍從-1.0（偏左）至+1.0（偏右）
-#STRING This is time in seconds from the beginning of the recording.====這是從開始到現在所記錄的時長。
-#STRING This machine's role====這台機器的任務
-#STRING This will include all the angles of attack, forces, velocities, etc. for this instant in time.====這將包括此刻的所有攻角、受力、速度等資料。
-#STRING Throttle ratio 0.0 to 1.0, but emergency settings can actually exceed 1.0.====油門比通常範圍在0.0至1.0間，但緊急設定將會超過1.0。
-#STRING Throttles are CH Products Throttle Quadrant====扇形節流閥由CH Products製造
-#STRING Throttles not found! ====無法找到油門感測器！ 
-#STRING To fine pitch-To coarse pitch-To feather pitch-To start lock====減小槳矩-增大槳矩-順槳-槳矩啟動鎖定位
-#STRING Toggle displaying the simulator's frames per second onscreen.====開關螢幕上方的模擬器幀數顯示。
-#STRING Toggle list of nearby ATC.====開關附近的ATC清單。
-#STRING Toggle the bouncers window.====開關保險杠視窗
-#STRING Toggle water ruder.====升／降水舵
-#STRING Total Fuel Weight====總油量
-#STRING Transmission====傳輸
-#STRING Transmit to a single copy of ForeFlight, WingX Pro, Aerovie,\nFltPlan Go, SkyDemon & Garmin Pilot on the network====傳輸至網路上以下程式的一個：ForeFlight、WingX Pro、Aerovie、 \nFltPlan Go、SkyDemon、Garmin Pilot
-#STRING Transmit to a single copy of ForeFlight, WingX Pro, Aerovie,\nand SkyDemon on the network====傳送到ForeFlight、WingX Pro、Aerovie、\nand SkyDemon在網路上的單一副本
-#STRING Transmit to a single third-party app on the network====向網路中的單個協力廠商應用程式廣播資料
-#STRING Trim Limits, Speeds, and Tabs====配平限制，速度以及配平片
-#STRING Turbine Inlet Temperature, per engine.====每個引擎的進氣溫度。
-#STRING Uh...I hear something strange in the left engine.====呃……我聽著左引擎聲音有點不對勁啊。
-#STRING Update to the Latest Beta====升級到最新測試版
-#STRING Upper rotor battery failure====上部轉子電池失效
-#STRING Upper rotor controller failure====上部轉子失效
-#STRING Use this section to configure an IOS on your local network to control this machine.====使用本部分配置本地網路上的教員操縱臺來控制此機器。
-#STRING Use this section to make this machine an IOS for another copy of X-Plane on your local network.====使用此部分的設置，使本機成為本地網路上另一個X-Plane副本的教員操縱臺。
-#STRING VECTORED-THRUST====向量推力
-#STRING Vertical (glideslope) deflection, -2.5 to 2.5 dots, positive fly up.====垂直（下滑道）偏轉，範圍從-2.5至2.5，正為爬升。
-#STRING Vertigo====眩暈
-#STRING WING-TILT FOR MANEUVERING====機翼傾斜的操作係數
-#STRING Wave====波
-#STRING We were unable to load the shader file:====無法載入陰影(shader)檔
-#STRING Weapon====武器
-#STRING When you click "Quit & Complete Installation," X-Plane will launch the installer and begin installing your missing files.====當你點擊“退出並完成安裝”時，X-Plane將會啟動安裝程式以安裝丟失的檔。
-#STRING When you click "Quit & Complete Installation," X-Plane will launch the installer and begin installing your missing files.====當您點擊“退出並完成安裝”時，X-Plane將會啟動安裝程式以安裝丟失的檔。
-#STRING When you click "Quit & Install Scenery," X-Plane will launch the installer and allow you to change your scenery installation.====當你點擊“退出並升級地景”時，X-Plane將開啟安裝程式以便安裝或修改地景。
-#STRING When you click "Quit & Install Scenery," X-Plane will launch the installer and allow you to change your scenery installation.====當您點擊“退出並升級地景”時，X-Plane將開啟安裝程式以便安裝或修改地景。
-#STRING When you click “Add or Remove Scenery Now,” X-Plane will launch the installer and allow you to change your scenery installation.====當您點擊“現在添加或刪除地景”時，X-Plane會啟動安裝程式並允許您更改您的地景安裝設置。
-#STRING When you click “Complete Installation Now,” X-Plane will launch the installer and begin installing your missing files.====當您點擊“現在完成安裝”時，X-Plane會啟動安裝程式並開始安裝丟失的檔。
-#STRING When you click “Update X-Plane Now,” X-Plane will launch the installer and update to the latest version.====當您點擊“立刻更新X-Plane”時，X-Plane會運行更新程式並更新到最新版本。
-#STRING Will read NAVAIDs.====正在讀取助航設施。
-#STRING Will read airways.====正在讀取航路
-#STRING Will read fixes.====正在讀取航點。
-#STRING Would you like to install the missing scenery now?====您想現在安裝丟失的地景嗎？
-#STRING X-Plane 11 runs on all of the most popular operating systems. X-Plane Desktop is available for Windows, Mac OS, and Linux. The mobile version of X-Plane is available for both Apple iOS and Android.====X-Plane11可以在所有當今最受歡迎的作業系統上運行。桌上出版的X-Plane可以在Windows，macOS和Linux上使用。移動版同時支援蘋果的IOS和安卓系統。
-#STRING X-Plane will dump all the data for the next cycle of the flight model to the “Cycle Dump.txt” file.====X-Plane將把飛行模型下個週期的所有資料轉儲到“Cycle Dump.txt”文件中。
-#STRING XP custom-Airliner-GFC700-STec 55-STec w/ alt presel-KAP 140 w/o alt-KAP 140 w/ alt-KAP 140 w/ alt presel-Piper Autocontrol====XP custom-Airliner-GFC700-STec 55-STec w/ alt presel-KAP 140 w/o alt-KAP 140 w/ alt-KAP 140 w/ alt presel-Piper Autocontrol
-#STRING XPlane custom-Airliner-GFC700-STec 55-STec w/ alt presel-KAP 140 w/o alt-KAP 140 w/ alt-KAP 140 w/ alt presel-Piper Autocontrol====X Plane自訂-客機-GFC700-STec 55-STec 有 alt presel-KAP 140 無 alt-KAP 140 有 alt-KAP 140 有 alt presel-Piper自動控制
-#STRING Xavion and FlyQ can receive AHRS and ADS-B positional data from X-Plane, allowing you to use those apps with your simulator as though you were sitting in a real cockpit.====Xavion和FlyQ可以接收來自X-Plane的AHRS和ADS-B位置資料，您的模擬器允許您使用這些應用程式，就像您坐在真正的駕駛艙中一樣。
-#STRING Yaw control left====偏航控制向左
-#STRING Yaw control right====偏航控制向右
-#STRING Yaw not found! ====無法找到偏航感測器！ 
-#STRING You agree to use X-Plane for non-commercial purposes only. (See X-Plane.com/pro/ for information on professional licenses.)====您同意只將此X-Plane授權用於非商業用途（請查看X-Plane.com/pro/ 來獲取關於專業授權的更多資訊）
-#STRING You already have the X-Plane 11 Demo installed on this computer. What would you like to do?====您已經安裝了一份X-Plane11試用版在您的電腦上，您想要做什麼？
-#STRING You can record a flight in a real aircraft on Xavion, a Laminar Research App, and replay it in X-Plane 11.====你可以用Xavion記錄下一架真實客機的飛行軌跡，這是一款Laminar Resarch開發的App，並且可以在X-Plane11裡重播軌跡。
-#STRING You can record a flight in a real aircraft on Xavion, a Laminar Research App, and replay it in X-Plane 11.====您可以用Xavion記錄下一架真實客機的飛行軌跡，這是一款Laminar Resarch開發的App，並且可以在X-Plane11裡重播軌跡。
-#STRING You know that real single-engine planes pull to the left, right?====你知道嗎？現實中單引擎螺旋槳飛機會受到向左的拉力。
-#STRING You know that real single-engine planes pull to the left, right?====您知道嗎？現實中單引擎螺旋槳飛機會受到向左的拉力。
-#STRING You may want to extend the next notch of flaps to slow you down even more.====您可能想伸出一格襟翼以進一步減速。
-#STRING You might try restarting your computer to shut down any other programs that might be using the same port, preventing X-Plane from being able to use it.====您可能會需要重新開機電腦以關閉可能使用相同埠的任何其他程式，以防X-Plane無法使用所需的埠。
-#STRING You will be able to use X-Plane normally, but X-Plane will be unable to automatically configure networking.====您將能夠正常使用X-Plane，但X-Plane將無法自動配置網路。
-#STRING Your airspeed indicator is the round gauge in the top left of the panel in front of you. You can see your speed rising since you added power. Decrease the throttle all the way down to idle and watch the plane slow down again.====您的空速表位於您面前儀錶盤中的左上方。空速正由於您增加了引擎輸出功率而上升。將節流閥減小到慢車位，觀察飛機減速的過程。
-#STRING Your airspeed indicator is the round gauge in the top left of the panel in front of you. You can see your speed rising since you added power.====您的空速表位於您面前儀錶盤中的左上方。空速正由於您增加了引擎輸出功率而上升。
-#STRING Your copy of X-Plane is now unlocked. But, you're missing files included in the full version of the simulator.====您的X-Plane已經解鎖完整版，但您缺少完整版X-Plane中包含的部分檔。
-#STRING Your speed is a bit too high. You should reduce the throttle a bit. (Remember you can use ‘[throttle_down]’.)====您的速度有點太高，您應該稍微減小油門。（您可以使用‘[throttle_down]’鍵）
-#STRING Your speed is a bit too low. You should increase the throttle a bit. (Remember you can use ‘[throttle_up]’.)====您的速度有點太低，您應該稍微增加油門。（您可以使用‘[throttle_up]’鍵）
-#STRING Your system does not meet X-Plane’s hardware requirements.====您的系統沒有達到X-Plane的最低硬體要求。
-#STRING bypass ratio====旁通比
-#STRING carb recip-injected recip-electric-turboprop (free)-turboprop (fixed)-jet-rocket====化油器活塞往復式-直噴活塞往復式-電動-渦輪螺旋槳（活動）-渦輪螺旋槳（固定）-噴氣-火箭
-#STRING copy geo from part #====複製geo來自部件 #
-#STRING electric-carb recip-injected recip-free N1 turbo(old)-free N2 turboprop-fixed turbo (old)-fixed turboprop-jet 1 spool-jet 2 spool-rocket====electric-carb recip-injected recip-free N1 turbo(old)-free N2 turboprop-fixed turbo (old)-fixed turboprop-jet 1 spool-jet 2 spool-rocket
-#STRING electric-carb recip-injected recip-free turboprop-fixed turboprop-jet-rocket====電力-化油器往復式-直噴往復式-自由渦輪螺旋槳-定軸渦輪螺旋槳-噴氣式-火箭
-#STRING electric-carb recip-injected recip-v11 free turbine-fixed turboprop-jet-rocket-v10 free turbine====電力-化油器往復式-直噴往復式-v11 自由渦輪-定矩渦輪螺旋槳-噴氣-火箭-v10 自由渦輪
-#STRING fixed-constant RPM-manual pitch-main rotor-const tip mach-tail rotor-lift fan-VTOL cyclic-const ave AOA====定矩-恒速-手動槳矩-主旋翼-恒定槳梢馬赫數-尾懸疑-升力風扇-垂直起降迴圈-恒定ave AOA
-#STRING fixed-constant RPM-manual pitch-main rotor-const tip mach-tail rotor-lift fan-VTOL cyclic====固定槳距-恒速-手動槳距-主旋翼-恒翼梢馬赫數-尾旋翼-升力風扇-垂直起降迴圈
-#STRING goes to bus #====至匯流條 #
-#STRING iPHONE & iPAD %1:(number of connections)%====iPHONE或iPAD %1:(number of connections)%
-#STRING mach number====馬赫數
-#STRING vacuum DG sync to magentic north.====真空DG與磁北同步
-
+STRING You can ask questions and help others on the X-Plane Question & Answer site. Go to questions.x-plane.com to join the community.====您可以在X-Plane的問答介面提問，或者説明其他人解決他們的問題。前往questions.x-plane.com來加入討論。
+STRING No compatible Vulkan device was found====未找到相容的Vulkan設備
+STRING %1:Device name% has a very large null zone set.====%1:Device name%有非常大的控制死區
+STRING * Recommended Radio Frequency====* 推薦無線電頻率
+STRING 1) Go to X-Plane.com and get a key to unlock the G1000 functionality.====1)  去X-Plane.com獲得一個解鎖G1000所有功能的金鑰。
+STRING 2) Purchase a G1000 from a site such as FlyPFC.com.====從類似於FlyPFC.com的網站中購買G1000
+STRING <         2x time-speed         >====<         2倍速         >
+STRING <         4x time-speed         >====<         4倍速         >
+STRING <         6x time-speed         >====<         6倍速         >
+STRING <         8x time-speed         >====<         8倍速         >
+STRING <        16x time-speed         >====<         16倍速         >
+STRING <        2x ground-speed        >====<        2倍地速        >
+STRING <        4x ground-speed        >====<        4倍地速        >
+STRING <        6x ground-speed        >====<        6倍地速        >
+STRING <        8x ground-speed        >====<         8倍地速         >
+STRING <        Anchor deployed        >====<       已放錨        >
+STRING <       16x ground-speed        >====<         16倍地速         >
+STRING <       Space bar to drop       >====<       按下空白鍵投放       >
+STRING <     Space bar to separate     >====<     按下空白鍵釋放     >
+STRING <    Release brakes for winch   >====<    鬆開絞車刹車   >
+STRING <    Release brakes to launch   >====<    鬆開刹車發射   >
+STRING <   Release brakes to take off  >====<   鬆開刹車起飛  >
+STRING <   Space bar to release winch  >====<   按下空白鍵釋放絞車  >
+STRING < Space bar to release tow rope >====< 按下空白鍵釋放拖繩 >
+STRING < variable ground-speed for fps >====< 顯示幀率影響下的可變地速倍率 >
+STRING A device running ForeFlight, WingX Pro, or SkyDemon (%1:IP address%)====運行ForeFlight、 WingX Pro或 SkyDemon的設備 (%1:IP address%)
+STRING A stall in an aircraft is a sudden loss of lift when the angle of attack is too high. This is initiated by the steep raising of an aircraft's nose, resulting in a loss of velocity and an abrupt drop. Correct this by immediately by lowering the nose and adding power.====飛行上的失速是在高攻角情況下突然失去升力的現象。一般始於機頭急劇上升，造成速度和高度急劇降低，通過壓低機鼻並增加推力的方式來改出。
+STRING A variety of third-party apps can receive AHRS data from X-Plane, allowing you to use them with your simulator as though you were sitting in a real cockpit.====各種各樣的協力廠商應用程式可以從X-Plane接收AHRS（姿態航向基準系統 ）資料，讓您可以像仿佛坐在真正的駕駛艙中一樣，在模擬器中使用它們。
+STRING ABOUT THE X-PLANE DEMO====關於X-PLANE試用版
+STRING ABack-course on, 0/1.====A反航道模式啟動， 0/1。
+STRING AIRPORT & NAVAID DATA====機場和導航點數據
+STRING AUTO-DEFLECTIONS====自動偏轉
+STRING AUTO-SWEEP====自動掃描
+STRING Add Simulator to Control====添加模擬器以進行控制
+STRING Add or Remove Scenery Now====現在添加或刪除地景
+STRING Aileron trim left.====副翼左配平
+STRING Aileron trim right.====副翼右配平
+STRING Airfoil====翼型
+STRING All devices on the network running ForeFlight, WingX Pro, or SkyDemon====局域網中運行的ForeFlight, WingX Pro, SkyDemon設備
+STRING Allow a networked IOS to control this machine====允許網路上的教員操縱臺控制這台機器
+STRING Always try to touch down within the first few feet of the end of the runway. Learning to do this consistently will greatly increase your piloting skills.====總是試著在跑道一端起始的幾英尺處著陸，堅持做這件事會大幅提升你的飛行技術（注：中國等地區規定需要在跑道畫出的接地區著陸，俗稱“大白塊”）
+STRING An IOS (%1:IP address%) controlling this simulator====一台教員操縱臺設備在控制模擬器(%1:IP address%)
+STRING An IOS (%1:IP address%) that incorrectly thinks this machine is a master simulator====一台教員操縱臺錯誤的認為這台機器是主模擬器(%1:IP address%)
+STRING An X-Plane machine (%1:IP address%) controlled by this IOS====被教員操縱臺控制的X-Plane模擬器(%1:IP address%)
+STRING An X-Plane machine (%1:IP address%) that incorrectly thinks this machine is an IOS====一台X-Plane設備(%1:IP address%)錯誤地認為這台機器是教員操縱臺
+STRING Anti-ice: all wing, de-ice off.====防冰：機翼除冰關閉。
+STRING Anti-ice: all wing, de-ice on.====防冰：機翼除冰開啟。
+STRING Anti-ice: all wing, de-ice toggle.====防冰：機翼除冰開關
+STRING Anti-ice: left wing, de-ice off.====防冰：左機翼除冰關閉。
+STRING Anti-ice: left wing, de-ice on.====防冰：左機翼除冰開啟。
+STRING Anti-ice: left wing, de-ice toggle.====防冰：左機翼除冰開關
+STRING Anti-ice: right wing, de-ice off.====防冰：右機翼除冰關閉。
+STRING Anti-ice: right wing, de-ice on.====防冰：右機翼除冰開啟。
+STRING Anti-ice: right wing, de-ice toggle.====防冰：右機翼除冰開關
+STRING Art Stab====水準安定面和垂直安定面
+STRING Auto-throttle mode: off=0, on=1====自動油門模式：0為關閉，1為啟用。
+STRING Autopilot altitude mode: 3=pitch sync, 4=vvi, 5=airspeed, 6=airspeed with alt arm, 7=alt hold, 8=terrain-follow, 9=glideslope hold====自動駕駛儀高度保持模式：3為仰角同步，4為垂直速率同步，5為空速模式，6為空速和高度模式，7為高度保持模式，8為地形航行模式，9為下滑道模式。
+STRING Autopilot altitude selection, feet MSL indicated.====自動駕駛儀高度選擇，表示海拔高度。
+STRING Autopilot auto-throttle off.====自動駕駛自動油門關閉
+STRING Autopilot auto-throttle on.====自動駕駛自動油門打開
+STRING Autopilot auto-throttle toggle.====自動駕駛自動油門開關
+STRING Autopilot heading mode: 0=wing-level, 1=heading, 2=localizer or other CDI====自動駕駛儀航向保持模式：0為翼平，1為航向模式，2為下滑道模式或其他航向控制（CDI）模式
+STRING Autopilot heading selection, degrees magnetic.====自動駕駛儀磁航向選擇。
+STRING Autopilot is holding knots or mach number (knots=0, mach=1)====表示自動駕駛儀保持以節或馬赫為單位等待航速（0為節，1為馬赫）。
+STRING Autopilot pitot static source, 0 or 1====自動駕駛靜壓源 0或1
+STRING Autopilot speed selection, knots or Mach number.====自動駕駛儀速度選擇，以節或馬赫作單位。
+STRING Autopilot vertical speed selection, feet per minute====自動駕駛儀垂直速率選擇，以 英尺/分鐘 作單位。
+STRING Autopilot wing-level.====自動駕駛坡度水準
+STRING Aviators worldwide use a phonetic alphabet: ALPHA BRAVO CHARLEY DELTA ECHO FOXTROT GOLF HOTEL INDIA JULIET KILO LIMA MIKE NOVEMBER OSCAR PAPA QUEBEC ROMEO SIERRA TANGO UNIFORM VICTOR WHISKY X-RAY YANKEE ZULU====全世界的航空從業者所用的字母表：ALPHA BRAVO CHARLEY DELTA ECHO FOXTROT GOLF HOTEL INDIA JULIET KILO LIMA MIKE NOVEMBER OSCAR PAPA QUEBEC ROMEO SIERRA TANGO UNIFORM VICTOR WHISKY X-RAY YANKEE ZULU（無線電字母讀法）
+STRING Avionics overhead====電子設備過熱
+STRING BODY DATA====數據
+STRING Barometric pressure dialed into the altimeter, inches HG.====輸入至高度計中的氣壓值，以英寸汞柱作單位。
+STRING Baron B58 6.00 (version 0500.02)====男爵 B58 6.00 （版本 0500.02）
+STRING Batoh Device / PlayStation 3 Controller====Batoh 設備 / PlayStation 3 控制器
+STRING Bitmap====點陣圖
+STRING Block msg 1====Block msg 1
+STRING Brakes not found! ====無法找到刹車感測器！ 
+STRING Broadcast to all copies of ForeFlight, WingX Pro, Aerovie,\nFltPlan Go, SkyDemon & Garmin Pilot on the network====向網路上所有以下程式廣播：ForeFlight、WingX Pro、Aerovie、 \nFltPlan Go、SkyDemon、Garmin Pilot
+STRING Broadcast to all copies of ForeFlight, WingX Pro, Aerovie,\nand SkyDemon on the network====廣播到ForeFlight、WingX Pro、Aerovie、\nand SkyDemon在網路上的所有副本
+STRING Broadcast to all third-party apps on the network====向網路中的所有協力廠商應用程式廣播資料
+STRING Buy the X-Plane 11 digital download now from X-Plane.com to get instant access to the full simulator!====現在從X-Plane.com購買X-Plane 11數字下載版解鎖完整版模擬器！
+STRING CONTROL Deflection RATES====控制偏移率
+STRING Capture video in background====在後臺錄製視頻
+STRING Carburator ice suspected.====懷疑出現化油器積冰。
+STRING Carburetor ice suspected!====化油器結冰！
+STRING Cascade rotor failure 12====級聯轉子失效 1 2
+STRING Cascade rotor failure 34====級聯轉子失效 3 4
+STRING Cascade rotor failure 56====級聯轉子失效 5 6
+STRING Cascade rotor failure 78====級聯轉子失效 7 8
+STRING Cessna 172S 7.01 (version 0563.00)====賽斯納 172S 7.01 （版本 0563.00）
+STRING Cessna 182T 7.01 (version 0563.00)====賽斯納 182T 7.01 （版本 0563.00）
+STRING Change Livery and Keep Flying====更改塗裝並繼續飛行
+STRING Clicking "%1:button label%" below will undo any joystick change you have made and reconfigure X-Plane to use the defaults for this device.====點擊下方的 "%1:button label%" 將會撤銷所有搖杆設置並將其重置回默認設置。
+STRING Clicking Delete will permanently remove the profile "%1:profile name%" from X-Plane.====點擊刪除後將會把 "%1:profile name%"從X-Plane中永久移除。
+STRING Clicking “Reset All Keyboard Configuration” below will undo any key bindings you have made and reconfigure X-Plane to use the default keyboard shortcuts.\n\nIf this was not your intention, click Cancel.====按一下下面的 "重置所有鍵盤配置" 將會撤銷您所做的任何鍵位設置, 並重新配置 X-Plane使用的預設鍵盤快速鍵. 如果這不是您的本意, 請按一下 "取消"。
+STRING Clouds & precipitation====雲和降水
+STRING Clouds====有雲
+STRING Cockpit Object:====駕駛艙對象：
+STRING Cockpit Object====駕駛艙項目
+STRING Columbia 400 6.00 (version 0530.02)====哥倫比亞 400 6.00 (版本 0530.02)
+STRING Complete Installation Now====現在完成安裝
+STRING Control Deflection Speeds and Limits====偏轉控制系統速度和限制
+STRING Control Forces====力量控制
+STRING Copilot DG sync down.====右座駛差動同步放大器 ↓
+STRING Copilot DG sync up.====右座駛差動同步放大器 ↑
+STRING Cylinder Head Temperature, per engine.====每個引擎的汽缸蓋溫度。
+STRING DG sync down.====陀螺方位儀航向磁偏角同步修正下調
+STRING DG sync up.====陀螺方位儀航向磁偏角同步修正上調
+STRING DIFFERENTIAL THRUST-VECTOR FOR MANEUVERING====不同的向量發動機的操作係數
+STRING DOWNLOADING UPDATE====下載更新
+STRING DYNAMIC FLAP ACTUATION====動態襟翼驅動
+STRING Date Saved====資料已保存
+STRING Decision height dialed into the radio alt, feet AGL.====輸入至無線電高度計中的距地決斷高度。
+STRING Decrease the throttle all the way down to idle and watch the plane slow down again.====將節流閥減小到慢車位，觀察飛機減速的過程。
+STRING Distance====距離
+STRING Don’t forget to extend the landing gear.====不要忘記放出起落架。
+STRING Dump fuel.====放油
+STRING Dynamically control weather, create aircraft failures and more with Control Pad for X-Plane. It is a free App from the Apple App Store that allows you to control X-Plane without pausing the simulation. ====用“Control Pad for X-Plane”應用來動態控制天氣，設置飛機故障及其他。這是一個在App Store可以下載的免費應用，可以讓您在不暫停的情況下操作X-Plane。 
+STRING ENTER DATA POINTS HERE TO CHECK THRUST.====在此處輸入資料點以確認推力。
+STRING EXTRA INPUTS FOR AUTO-GYROS====自動陀螺儀的其他輸入
+STRING EXTRA INPUTS FOR JETS====噴氣機的額外輸入
+STRING EXTRA INPUTS FOR ROTORS====旋翼的額外輸入
+STRING EXTRA INPUTS FOR TILT-ROTORS AND HELOS====直升機傾斜轉子的其他輸入
+STRING Edge Blend====邊緣混合
+STRING Elec system overhead====電子系統過熱
+STRING Electric lower torque====電子下轉矩
+STRING Electric motor====電動機
+STRING Electric upper torque====電子上轉矩
+STRING Elevator trim, -1.0 is nose down, 1.0 is nose up.====升降舵配平，-1.0表示向下，1.0表示向上。
+STRING Enable VNAV====啟用垂直導航
+STRING Enable WAAS====啟用廣域增強系統類比
+STRING Enable generator audio====啟用音訊發生器****
+STRING Enable physical G1000 PFD and MFD====啟用G1000的主飛行顯示和多功能顯示
+STRING Engine Manifold Pressure, per engine.====每個引擎的多重壓力。
+STRING Engine Pressure Ratio, per engine.====每個發動機的壓率比。
+STRING Engine torque, per engine.====每個引擎的扭矩。
+STRING Exhaust Gas Temperature, per engine.====每個引擎的引氣溫度。
+STRING Exhaust gas Temperature, per engine.====每個引擎的排氣溫度。
+STRING F1 and F2 for throttle!====按F1和F2以調節節流閥！
+STRING FLAP SPECS====襟翼規格
+STRING FMS external====外置FMS
+STRING FMS interal====內置FMS
+STRING FMS1 displays off screen data====FMS1資料顯示超出螢幕邊界
+STRING FMS1 has a pending message====FMS1有一條待處理消息
+STRING FMS1 wants pending changes executed====FMS1需要執行所做的更改
+STRING FMS2 displays off screen data====FMS2資料顯示超出螢幕邊界
+STRING FMS2 has a pending message====FMS2有一條待處理消息
+STRING FMS2 wants pending changes executed====FMS2需要執行所做的更改
+STRING FMS====FMS
+STRING FOREFLIGHT, WINGX PRO, FLTPLAN GO, SKYDEMON, OR GARMIN PILOT====FOREFLIGHT、WINGX PRO、 FLTPLAN GO、SKYDEMON或GARMIN PILOT
+STRING FOREFLIGHT, WINGX PRO, OR SKYDEMON====FOREFLIGHT, WINGX PRO, 或 SKYDEMON
+STRING File Location====檔位置
+STRING Flap handle position, 0.0 is retracted, 1.0 is extended.====襟翼手柄的位置，0.0表示完全收起，1.0表示完全展開。
+STRING Flap-1 deflection ratio, 0.0 is retracted, 1.0 is extended.====襟翼-1伸展值，0.0表示完全收起，1.0表示完全展開。
+STRING Flight Data Recorder file====飛行資料記錄器檔
+STRING Flight Data====飛行資料
+STRING Flight control hardware not found!====未找到飛控設備！
+STRING Flight control hardware not found====未找到飛控設備。
+STRING Flight director on, 0/1.====飛行指示器啟用， 0/1。
+STRING Flight director pitch, degrees, positive up.====飛行指示器的仰角，以度為單位，正為向上。
+STRING Flight director roll, degrees, positive right.====飛行指示器的側轉角度，以度為單位，正為向右。
+STRING Fly to Learn Introduction====Fly to Learn Introduction
+STRING Follow the hoop guidance to practice banking, climbing, and diving.====跟隨環形指引來練習側傾、爬升以及俯衝。
+STRING Force Maximums====力度最大
+STRING Force reloading the current aircraft.====強制重新載入當前航空器。
+STRING Frame rate check failed! Flight control hardware not found!====幀數檢查失敗！未找到飛控設備！
+STRING Frame rate check failed!====幀數檢查失敗！
+STRING Fuel Flow, per engine.====每個引擎的燃油流速。
+STRING G1000 pilot AP NVAV.====G1000 機長 AP NVAV
+STRING G1000 pilot com audio.====G1000 機長 com 音訊
+STRING G1000 pilot com flip flop.====G1000 機長 com 觸發器
+STRING G1000 pilot com inner ring tune down.====G1000 機長 com 細旋鈕↓
+STRING G1000 pilot com inner ring tune up.====G1000 機長 com 細旋鈕↑
+STRING G1000 pilot com outer ring tune down.====G1000 機長 com 粗旋鈕↓
+STRING G1000 pilot com outer ring tune up.====G1000 機長 com 粗旋鈕↑
+STRING G1000 software version====G1000軟體版本
+STRING G430 (copilot)====G430（副機長）
+STRING G430 (pilot)====G430（機長）
+STRING G430 COM/NAV 1 coarse down.====G430 COM/NAV 1 細選擇 ↓
+STRING G430 COM/NAV 1 coarse up.====G430 COM/NAV 1 細選擇 ↑
+STRING G430 COM/NAV 1 fine down.====G430 COM/NAV 1 粗選擇 ↓
+STRING G430 COM/NAV 1 fine up.====G430 COM/NAV 1 粗選擇 ↑
+STRING G430 COM/NAV 2 coarse down.====G430 COM/NAV 2 粗選擇 ↓
+STRING G430 COM/NAV 2 coarse up.====G430 COM/NAV 2 粗選擇 ↑
+STRING G430 COM/NAV 2 fine down.====G430 COM/NAV 2 細選擇 ↓
+STRING G430 COM/NAV 2 fine up.====G430 COM/NAV 2 細選擇 ↑
+STRING G430 NAV 1 CDI.====G430 NAV 1 CDI
+STRING G430 NAV 1 CLR.====G430 NAV 1 清除
+STRING G430 NAV 1 COM audio.====G430 NAV 1 COM音訊
+STRING G430 NAV 1 COM flip flop.====G430 NAV 1 COM觸發器
+STRING G430 NAV 1 Direct.====G430 NAV 1 Direct
+STRING G430 NAV 1 ENT.====G430 NAV 1 回車
+STRING G430 NAV 1 FPL.====G430 NAV 1 FPL
+STRING G430 NAV 1 MSG.====G430 NAV 1 MSG
+STRING G430 NAV 1 Menu.====G430 NAV 1 菜單
+STRING G430 NAV 1 NAV COM toggle.====G430 NAV 1 NAV COM 選擇
+STRING G430 NAV 1 NAV audio====G430 NAV 1 NAV音訊
+STRING G430 NAV 1 NAV flip flop.====G430 NAV 1 NAV觸發器
+STRING G430 NAV 1 OBS.====G430 NAV 1 OBS
+STRING G430 NAV 1 PROC.====G430 NAV 1 PROC
+STRING G430 NAV 1 VNAV.====G430 NAV 1 VNAV
+STRING G430 NAV 1 chapter dn.====G430 NAV 1 章節 ↓
+STRING G430 NAV 1 chapter up.====G430 NAV 1 章節 ↑
+STRING G430 NAV 1 page dn.====G430 NAV 1 頁面 ↓
+STRING G430 NAV 1 page up.====G430 NAV 1 頁面 ↑
+STRING G430 NAV 1 pop out window.====G430 NAV 1 彈出小窗
+STRING G430 NAV 1 push cursor.====G430 NAV 1
+STRING G430 NAV 1 toggle popup.====G430 NAV 1 設置彈出小窗
+STRING G430 NAV 1 zoom in.====G430 NAV 1 縮放 +
+STRING G430 NAV 1 zoom out.====G430 NAV 1 縮放 -
+STRING G430 NAV 2 CDI.====G430 NAV 2 CDI
+STRING G430 NAV 2 CLR.====G430 NAV 2 CLR
+STRING G430 NAV 2 COM FF.====G430 NAV 2 COM FF
+STRING G430 NAV 2 COM audio.====G430 NAV 2 COM 音訊
+STRING G430 NAV 2 Direct.====G430 NAV 2 Direct
+STRING G430 NAV 2 ENT.====G430 NAV 2 ENT
+STRING G430 NAV 2 FPL.====G430 NAV 2 FPL
+STRING G430 NAV 2 MSG.====G430 NAV 2 MSG
+STRING G430 NAV 2 Menu.====G430 NAV 2 菜單
+STRING G430 NAV 2 NAV COM toggle.====G430 NAV 2 NAV COM 選擇
+STRING G430 NAV 2 NAV FF.====G430 NAV 2 NAV FF
+STRING G430 NAV 2 NAV audio.====G430 NAV 2 NAV 音訊
+STRING G430 NAV 2 OBS.====G430 NAV 2 OBS
+STRING G430 NAV 2 PROC.====G430 NAV 2 PROC
+STRING G430 NAV 2 VNAV.====G430 NAV 2 VNAV
+STRING G430 NAV 2 chapter dn.====G430 NAV 2 章節 ↓
+STRING G430 NAV 2 chapter up.====G430 NAV 2 章節 ↑
+STRING G430 NAV 2 page dn.====G430 NAV 2 頁面 ↓
+STRING G430 NAV 2 page up.====G430 NAV 2 頁面 ↑
+STRING G430 NAV 2 pop out window.====G430 NAV 2 快顯視窗
+STRING G430 NAV 2 push cursor.====G430 NAV 2 按下游標*
+STRING G430 NAV 2 toggle popup.====G430 NAV 2 開關彈窗
+STRING G430 NAV 2 zoom in.====G430 NAV 2 縮放 +
+STRING G430 NAV 2 zoom out.====G430 NAV 2 縮放 -
+STRING GARMIN 1000====GARMIN 1000
+STRING GDU version====Garmin顯示單元版本
+STRING GIA part====Garmin綜合航空電子系統部件
+STRING GIA version====Garmin綜合航空電子系統版本
+STRING Garmin 1000====Garmin 1000
+STRING Gear #1 (nose?) deployment ratio: 0.0 is retracted, 1.0 is down.====起落架 #1 (機鼻?) 釋放比: 0.0表示完全收起, 1.0表示完全放下。
+STRING Gear #2 (left?) deployment ratio: 0.0 is retracted, 1.0 is down.====起落架 #2 (左側起落架?) 釋放比: 0.0表示完全收起, 1.0表示完全放下。
+STRING Gear #3 (right?) deployment ratio: 0.0 is retracted, 1.0 is down.====起落架 #3 (右側起落架?) 釋放比: 0.0表示完全收起, 1.0表示完全放下。
+STRING Gear handle: 0 is up, 1 is down.====起落架手柄，0表示收起，1表示放下。
+STRING Generic====通用
+STRING Get some more flight practice, then see if you can recover from an unexpected emergency.====獲得更多的飛行練習，然後看看您是否能從意外的緊急情況中恢復過來。
+STRING Global MTBF applies in addition to failures selected above====除上面選中的故障之外，應用設定的全域平均無故障時間
+STRING Go to saved 3-D cockpit location #%1:index%.====進入存儲的3D駕駛艙視角位置 #%1:index% 。
+STRING Got it!====Got it!
+STRING Great job so far!====幹得不錯！
+STRING Grid Adjust====調整網格
+STRING Ground Proximity Warning, 0/1.====近地告警系統，0/1。
+STRING HOTAS Cougar====HOTAS Cougar
+STRING Height above mean sea level, in TRUE feet, regardless of any barometric pressure settings or other errors.====平均海拔高度為TRUE，這不受氣壓設置或者其他誤差的影響。
+STRING Hit 'b' to toggle the brakes!====按"b"以切換刹車狀態！
+STRING Horizontal (localizer) deflection, -2.5 to 2.5 dots, positive fly right.====水準（航向道）偏轉，範圍從-2.5至2.5，正為向右航行。
+STRING Hydraulic Force Increase====液壓壓力上升
+STRING I found an area with no scenery installed! You will see nothing but water around the airports since no scenery is installed for this area!====我發現了一個沒有安裝地景的位置！未安裝地景的地方只會顯示機場和機場地面周圍的水面。
+STRING I smell fire!====聞著好像是著火了！
+STRING INVERTERS====變流器
+STRING If you have a real Garmin 1000, first set your IP address to 172.16.1.1 and subnet to 255.255.0.0, then check this box.====如果您有一個真正的Garmin 1000，首先將您的IP位址設置為172.16.1.1，並將子網設置為255.255.0.0，然後選中此框。
+STRING If you want to run a real G11000 with X-Plane, you have 2 steps to complete to do this:====如果你想在X-Plane運行一個真實的G1000，你需要完成以下2步：
+STRING Increasing this slider will increase the number of objects drawn at airports. This impacts your CPU usage, so if you have a very powerful CPU, you can set this to High or even Max without impacting your frame rate too much.====增加此項將增加在機場繪製的物件數量。這會影響您的CPU使用率，因此，如果您的CPU性能足夠強，則可以將其設置為高或甚至最大，而不會影響幀率。
+STRING Indicated rate-of-turn, degrees per second positive right.====表示以 度/秒 為單位的轉向度，正為向右。
+STRING Indicated slip in degrees, positive nose-right.====表示以度為單位的下滑度，正為機鼻朝右。
+STRING Interaction====相互作用
+STRING It looks like the left engine is going out! Honolulu airport is right in front of us now, so let's just make it down to the runway.====看樣子左側引擎要完蛋；火奴魯魯機場就在前面，咱儘量把飛機落在跑道上。
+STRING Jet Curves 1====噴氣曲線（Jet Curves）1
+STRING Jet Curves 2====噴氣曲線（Jet Curves）2
+STRING Jet Curves====噴漆曲線
+STRING Joystick Button====搖杆按鍵
+STRING Latitude, in degrees.====緯度。
+STRING Let's keep practicing to really get familiar with how controlling the aircraft works.====讓我們通過繼續練習來熟悉飛行操縱的原理。
+STRING Loading bitmap ====載入點陣圖 
+STRING Log Book====日誌
+STRING Longitude, in degrees.====經度。
+STRING Lower rotor battery failure====下部轉子電池失效
+STRING Lower rotor controller failure====下部轉子失效
+STRING MAX BATTERY POWER OUTPUT TO ELECTRIC MOTORS WITH STATE OF CHARGE====電池最大向電動機輸出功率與電量狀態
+STRING Map mode: 0 through 4 can give sme different map results.====地圖模式：0至4將會呈現不同模式的地圖。
+STRING Master Caution alerting, 0/1.====主注意，0/1。
+STRING Master Warning alerting, 0/1.====主警告，0/1。
+STRING Mixtures not found! ====無法找到混合比感測器！ 
+STRING Modal msg 1====Modal msg 1
+STRING Monitor audio: ADF2.====監聽音訊：ADF2
+STRING Monitor audio: COM1.====監聽音訊：COM1
+STRING Monitor audio: COM2.====監聽音訊：COM2
+STRING Monitor audio: DME.====監聽音訊：DME
+STRING Monitor audio: MKR.====監聽音訊：MKR
+STRING Monitor audio: NAV1.====監聽音訊：NAV1
+STRING Monitor audio: NAV2.====監聽音訊：NAV2
+STRING Move the mouse over any column to see its description.====移動滑鼠至目標欄上，以檢視相關描述。
+STRING Mute marker beacons.====指點信標靜音
+STRING N1, per engine.====每個引擎的低壓轉子轉速。
+STRING N2, per engine.====每個引擎的中/高壓轉子轉速。
+STRING NOTE: Since X-Plane was not able to store your product key information to preferences, you will not be able to authorize the simulator using a digital download key. Contact tech support at info@x-plane.com for help resolving this issue.====注意：由於X-Plane無法將您的產品金鑰資訊存儲到首選項，您將無法使用數位下載產品金鑰下載模擬器。 請通過info@x-plane.com尋求客戶支援，以説明解決此問題。
+STRING Nav-1 NAV/TO/FROM: nav=0, to=1, from=2.====NAV-1的NAV/TO/FROM模式: 0表示NAV模式, 1表示TO模式, 2表示FROM模式。
+STRING Nav-1 frequency, in a 5-digit integer form with no decimal, like 12150.====Nav-1頻率,格式為不加數點的5位元整數,例如12150。
+STRING Nav-1 type. NONE=0, NDB=2, VOR=3, LOC=5, ILS=10.====NAV-1類型，0表示無，2表示NBD模式，3表示VOR模式，5表示LOC模式，10表示ILS模式。
+STRING Nav-2 frequency, in a 5-digit integer form with no decimal, like 12150====Nav-2頻率,格式為不加數點的5位元整數,例如12150。
+STRING Nav-2 type. NONE=0, NDB=2, VOR=3, LOC=5, ILS=10.====NAV-2類型，0表示無，2表示NBD模式，3表示VOR模式，5表示LOC模式，10表示ILS模式。
+STRING Networking beacon initialization failed.====網路信標初始化失敗。
+STRING Nice job!====幹得不錯！
+STRING No Pro-Use Key found. G1000 support will not be allowed.====2)  無法找到專用金鑰，將不會提供對G1000設備的支援。
+STRING Number of Airport Objects====機場建築數量
+STRING OBS-1, in degrees 0 to 360.====OBS-1度數，範圍從0至360。
+STRING OBS-2, in degrees 0 to 360.====OBS-2度數，範圍從0至360。
+STRING OK quick lesson!====好的，開始進入練習！
+STRING OTHER DEVELOPERS====其他研發人員
+STRING Object====物體
+STRING Octo-Rotors====八旋翼
+STRING Open ====打開 
+STRING Or, if you don’t have a DVD, you can purchase the X-Plane 11 digital download from X-Plane.com to get instant access to the full simulator.====如果您沒有光碟的話，您可以從X-Plane.com購買X-Plane 11的數字下載版以獲得完整版。
+STRING Or, if you don’t have a product key, you can purchase the X-Plane 11 digital download from X-Plane.com to get instant access to the full simulator.====如果您沒有產品金鑰，您可以從X-Plane.com購買X-Plane 11的數字下載版以獲得完整版。
+STRING Over marker, 0/1====越過信標點， 0/1
+STRING PROJECT MANAGER====產品經理
+STRING PROPELLER 1====螺旋槳1
+STRING PROPELLER 2====螺旋槳2
+STRING PROPELLER 3====螺旋槳3
+STRING PROPELLER 4====螺旋槳4
+STRING PROPELLER 5====螺旋槳5
+STRING PROPELLER 6====螺旋槳6
+STRING PROPELLER 7====螺旋槳7
+STRING PROPELLER 8====螺旋槳8
+STRING Particle System====顆粒系統
+STRING Pitch control down====控制仰角向下
+STRING Pitch control up====控制仰角抬升
+STRING Pitch in degrees, positive up.====仰角度數，正為向上。
+STRING Pitch not found! ====無法找到俯仰感測器！ 
+STRING Plain flaps are the simplest type of flap. It is simply a control surface that pivots down, producing some extra lift and bit of drag.====簡單襟翼是各類襟翼中最簡單的一種。它是一個能夠繞指點向下旋轉，並提供更多升力與阻力的操縱面。
+STRING Point msg 1 (5 seconds)====Point msg 1 (5 seconds)
+STRING Port we send from====本機發送埠
+STRING Prop #1====螺旋槳1
+STRING Prop #====螺旋槳
+STRING Prop Geo====螺旋槳形狀
+STRING Propeller RPM actual, per engine.====每個螺旋槳引擎的準確轉速。
+STRING Propeller RPM command, per engine.====每個引擎的螺旋槳轉速。
+STRING Propeller pitch, in degrees, per engine.====以度為單位的每個螺旋槳引擎的角度。
+STRING Props not found! ====無法找到油門感測器！ 
+STRING Quick start engines to running, instant.====快速啟動引擎至運行，不耗時間立即啟動。
+STRING RENDERING OPTIONS====渲染選項
+STRING RESET ALL GRID OFFSETS TO DEFAULT====將所有網格設置為預設值
+STRING Radial====徑向
+STRING Re-Scan====重新掃描
+STRING Re-run the X-Plane installer and choose "Update" to replace the missing file.====重新運行X-Plane並點擊“升級”以替換缺失檔。
+STRING Re-run the X-Plane installer/updater to correct this problem.====重新運行X-Plane安裝/更新程式以解決該問題。
+STRING Regenerate icons for current aircraft====重新生成當前飛機的圖示
+STRING Reload the Current Aircraft====重新載入當前飛機
+STRING Ren Opts====Ren Opts
+STRING Roll control left====側轉控制向左
+STRING Roll control right====側轉控制向右
+STRING Roll in degrees, positive right.====側轉度數，正為向右。
+STRING Roll not found! ====無法找到橫滾感測器！ 
+STRING Rudder trim left.====方向舵左配平
+STRING Rudder trim right.====方向舵右配平
+STRING SET BYPASS AND INLET MACH FOR THIS PLANE, TO BE USED IN X-PLANE!====設定飛機旁通與輸入的馬赫數；此數值將在X-Plane中應用。
+STRING SOLAR-POWER====太陽能
+STRING SPECIAL CONTROL DEFLECTIONS====特殊的一些控制偏轉係數
+STRING Save ====保存 
+STRING Save as Default for %1:Device Name%====將%1:Device Name%設置為默認
+STRING See the file “Sending Data to X-Plane.rtfd” in your X-Plane directory’s Instructions folder for more information.====有關詳細資訊，請參閱X-Plane目錄的“Instructions”資料夾中的“Sending Data to X-Plane.rtfd”文件。
+STRING Set global mean time between failures====設定平均故障時長
+STRING Shear Amount====風切量
+STRING Shortcut Key====快速鍵
+STRING Simulator machine controlled by this IOS (%1:IP address%)====由教員操縱臺設備控制的模擬器(%1:IP address%)
+STRING Slat-1 deflection ratio, 0.0 is retracted, 1.0 is extended.====前緣翼縫-1伸展值，0.0表示完全收起，1.0表示完全展開。
+STRING Software version must match the G1000’s MDF upper right at startup.====啟動時，軟體版本必須與G1000的右上角顯示的版本匹配。
+STRING Speedbrake deflection ratio, 0.0 is retracted, 1.0 is extended, 1.5 is ground-deployed.====減速板比，0.0表示完全收起，1.0表示完全展開，1.5表示在地面使用。
+STRING Spoolup/Boost====加快轉速/加速
+STRING Spring and Damping====彈簧減震阻尼
+STRING Stall and Shaker====失速振盪器
+STRING Stall warning, 0 to 1.====失速警告，範圍從0至1。
+STRING Start at %1:start location%====在 %1:start location%開始
+STRING Support for a physical G1000 unit is unavailable, since you don’t have a Pro-Use USB key.====由於您沒有專業用途的USB金鑰，所以不支援物理的G1000設備。
+STRING T-Flight Hotas X Flight Stick====T-Flight Hotas X Flight Stick 飛行搖杆
+STRING THIRD-PARTY APPS====協力廠商應用
+STRING THRUST FRACTION OF MAX SEA-LEVEL STATIC THRUST, WHICH WILL BE USED IN X-PLANE.====推力占海平面最大靜推力的分數；此數值將在X-Plane中應用。
+STRING TRIM Deflections for AIRPLANES====飛行器配平偏移
+STRING TRIM Deflections for HELOS====直升機配平偏移
+STRING Temperature, in degrees C, of the ambient air near the airplane, at your current altitude.====您當前所處高度的飛機周圍溫度（攝氏度）。
+STRING The single-student IOS machine controlling this simulator (%1:IP address%)====控制此模擬器的IOS設備(%1:IP address%)
+STRING These apps can receive AHRS data from X-Plane, allowing you to use those apps with your simulator as though you were sitting in a real cockpit.====這些應用程式可以從X-Plane接收AHRS資料，您的模擬器允許您使用這些應用程式，就像您坐在真正的駕駛艙中一樣。
+STRING This graph shows how much of that maximum power is available per-battery as a function of the battery state of charge.====該圖表顯示了每個電池可用最大功率關於電池電量狀態的函數。
+STRING This indicates a problem with your local network.====這表示您的本地網路出現問題。
+STRING This installer will guide you through the process of installing the X-Plane 11 Demo.=====此安裝程式將會引導您安裝X-Plane 11的試用版。
+STRING This is the aileron deflection, in ratio -1.0 (left) to +1.0 (right)====這是副翼比，範圍從-1.0（偏左）至+1.0（偏右）
+STRING This is the elevator deflection, in ratio -1.0 (nose down) to +1.0 (nose up)====這是升降舵比，範圍從-1.0（機鼻向下）至+1.0（機鼻向上）
+STRING This is the rudder deflection, in ratio -1.0 (left) to +1.0 (right)====這是方向舵比，範圍從-1.0（偏左）至+1.0（偏右）
+STRING This is time in seconds from the beginning of the recording.====這是從開始到現在所記錄的時長。
+STRING This machine's role====這台機器的任務
+STRING This will include all the angles of attack, forces, velocities, etc. for this instant in time.====這將包括此刻的所有攻角、受力、速度等資料。
+STRING Throttle ratio 0.0 to 1.0, but emergency settings can actually exceed 1.0.====油門比通常範圍在0.0至1.0間，但緊急設定將會超過1.0。
+STRING Throttles are CH Products Throttle Quadrant====扇形節流閥由CH Products製造
+STRING Throttles not found! ====無法找到油門感測器！ 
+STRING To fine pitch-To coarse pitch-To feather pitch-To start lock====減小槳矩-增大槳矩-順槳-槳矩啟動鎖定位
+STRING Toggle displaying the simulator's frames per second onscreen.====開關螢幕上方的模擬器幀數顯示。
+STRING Toggle list of nearby ATC.====開關附近的ATC清單。
+STRING Toggle the bouncers window.====開關保險杠視窗
+STRING Toggle water ruder.====升／降水舵
+STRING Total Fuel Weight====總油量
+STRING Transmission====傳輸
+STRING Transmit to a single copy of ForeFlight, WingX Pro, Aerovie,\nFltPlan Go, SkyDemon & Garmin Pilot on the network====傳輸至網路上以下程式的一個：ForeFlight、WingX Pro、Aerovie、 \nFltPlan Go、SkyDemon、Garmin Pilot
+STRING Transmit to a single copy of ForeFlight, WingX Pro, Aerovie,\nand SkyDemon on the network====傳送到ForeFlight、WingX Pro、Aerovie、\nand SkyDemon在網路上的單一副本
+STRING Transmit to a single third-party app on the network====向網路中的單個協力廠商應用程式廣播資料
+STRING Trim Limits, Speeds, and Tabs====配平限制，速度以及配平片
+STRING Turbine Inlet Temperature, per engine.====每個引擎的進氣溫度。
+STRING Uh...I hear something strange in the left engine.====呃……我聽著左引擎聲音有點不對勁啊。
+STRING Update to the Latest Beta====升級到最新測試版
+STRING Upper rotor battery failure====上部轉子電池失效
+STRING Upper rotor controller failure====上部轉子失效
+STRING Use this section to configure an IOS on your local network to control this machine.====使用本部分配置本地網路上的教員操縱臺來控制此機器。
+STRING Use this section to make this machine an IOS for another copy of X-Plane on your local network.====使用此部分的設置，使本機成為本地網路上另一個X-Plane副本的教員操縱臺。
+STRING VECTORED-THRUST====向量推力
+STRING Vertical (glideslope) deflection, -2.5 to 2.5 dots, positive fly up.====垂直（下滑道）偏轉，範圍從-2.5至2.5，正為爬升。
+STRING Vertigo====眩暈
+STRING WING-TILT FOR MANEUVERING====機翼傾斜的操作係數
+STRING Wave====波
+STRING We were unable to load the shader file:====無法載入陰影(shader)檔
+STRING Weapon====武器
+STRING When you click “Add or Remove Scenery Now,” X-Plane will launch the installer and allow you to change your scenery installation.====當您點擊“現在添加或刪除地景”時，X-Plane會啟動安裝程式並允許您更改您的地景安裝設置。
+STRING When you click “Complete Installation Now,” X-Plane will launch the installer and begin installing your missing files.====當您點擊“現在完成安裝”時，X-Plane會啟動安裝程式並開始安裝丟失的檔。
+STRING When you click “Update X-Plane Now,” X-Plane will launch the installer and update to the latest version.====當您點擊“立刻更新X-Plane”時，X-Plane會運行更新程式並更新到最新版本。
+STRING Will read NAVAIDs.====正在讀取助航設施。
+STRING Will read airways.====正在讀取航路
+STRING Will read fixes.====正在讀取航點。
+STRING Would you like to install the missing scenery now?====您想現在安裝丟失的地景嗎？
+STRING X-Plane 11 runs on all of the most popular operating systems. X-Plane Desktop is available for Windows, Mac OS, and Linux. The mobile version of X-Plane is available for both Apple iOS and Android.====X-Plane11可以在所有當今最受歡迎的作業系統上運行。桌上出版的X-Plane可以在Windows，macOS和Linux上使用。移動版同時支援蘋果的IOS和安卓系統。
+STRING X-Plane will dump all the data for the next cycle of the flight model to the “Cycle Dump.txt” file.====X-Plane將把飛行模型下個週期的所有資料轉儲到“Cycle Dump.txt”文件中。
+STRING XP custom-Airliner-GFC700-STec 55-STec w/ alt presel-KAP 140 w/o alt-KAP 140 w/ alt-KAP 140 w/ alt presel-Piper Autocontrol====XP custom-Airliner-GFC700-STec 55-STec w/ alt presel-KAP 140 w/o alt-KAP 140 w/ alt-KAP 140 w/ alt presel-Piper Autocontrol
+STRING XPlane custom-Airliner-GFC700-STec 55-STec w/ alt presel-KAP 140 w/o alt-KAP 140 w/ alt-KAP 140 w/ alt presel-Piper Autocontrol====X Plane自訂-客機-GFC700-STec 55-STec 有 alt presel-KAP 140 無 alt-KAP 140 有 alt-KAP 140 有 alt presel-Piper自動控制
+STRING Xavion and FlyQ can receive AHRS and ADS-B positional data from X-Plane, allowing you to use those apps with your simulator as though you were sitting in a real cockpit.====Xavion和FlyQ可以接收來自X-Plane的AHRS和ADS-B位置資料，您的模擬器允許您使用這些應用程式，就像您坐在真正的駕駛艙中一樣。
+STRING Yaw control left====偏航控制向左
+STRING Yaw control right====偏航控制向右
+STRING Yaw not found! ====無法找到偏航感測器！ 
+STRING You agree to use X-Plane for non-commercial purposes only. (See X-Plane.com/pro/ for information on professional licenses.)====您同意只將此X-Plane授權用於非商業用途（請查看X-Plane.com/pro/ 來獲取關於專業授權的更多資訊）
+STRING You already have the X-Plane 11 Demo installed on this computer. What would you like to do?====您已經安裝了一份X-Plane11試用版在您的電腦上，您想要做什麼？
+STRING You can record a flight in a real aircraft on Xavion, a Laminar Research App, and replay it in X-Plane 11.====你可以用Xavion記錄下一架真實客機的飛行軌跡，這是一款Laminar Resarch開發的App，並且可以在X-Plane11裡重播軌跡。
+STRING You know that real single-engine planes pull to the left, right?====你知道嗎？現實中單引擎螺旋槳飛機會受到向左的拉力。
+STRING You may want to extend the next notch of flaps to slow you down even more.====您可能想伸出一格襟翼以進一步減速。
+STRING You might try restarting your computer to shut down any other programs that might be using the same port, preventing X-Plane from being able to use it.====您可能會需要重新開機電腦以關閉可能使用相同埠的任何其他程式，以防X-Plane無法使用所需的埠。
+STRING You will be able to use X-Plane normally, but X-Plane will be unable to automatically configure networking.====您將能夠正常使用X-Plane，但X-Plane將無法自動配置網路。
+STRING Your airspeed indicator is the round gauge in the top left of the panel in front of you. You can see your speed rising since you added power. Decrease the throttle all the way down to idle and watch the plane slow down again.====您的空速表位於您面前儀錶盤中的左上方。空速正由於您增加了引擎輸出功率而上升。將節流閥減小到慢車位，觀察飛機減速的過程。
+STRING Your airspeed indicator is the round gauge in the top left of the panel in front of you. You can see your speed rising since you added power.====您的空速表位於您面前儀錶盤中的左上方。空速正由於您增加了引擎輸出功率而上升。
+STRING Your copy of X-Plane is now unlocked. But, you're missing files included in the full version of the simulator.====您的X-Plane已經解鎖完整版，但您缺少完整版X-Plane中包含的部分檔。
+STRING Your speed is a bit too high. You should reduce the throttle a bit. (Remember you can use ‘[throttle_down]’.)====您的速度有點太高，您應該稍微減小油門。（您可以使用‘[throttle_down]’鍵）
+STRING Your speed is a bit too low. You should increase the throttle a bit. (Remember you can use ‘[throttle_up]’.)====您的速度有點太低，您應該稍微增加油門。（您可以使用‘[throttle_up]’鍵）
+STRING Your system does not meet X-Plane’s hardware requirements.====您的系統沒有達到X-Plane的最低硬體要求。
+STRING bypass ratio====旁通比
+STRING carb recip-injected recip-electric-turboprop (free)-turboprop (fixed)-jet-rocket====化油器活塞往復式-直噴活塞往復式-電動-渦輪螺旋槳（活動）-渦輪螺旋槳（固定）-噴氣-火箭
+STRING copy geo from part #====複製geo來自部件 #
+STRING electric-carb recip-injected recip-free N1 turbo(old)-free N2 turboprop-fixed turbo (old)-fixed turboprop-jet 1 spool-jet 2 spool-rocket====electric-carb recip-injected recip-free N1 turbo(old)-free N2 turboprop-fixed turbo (old)-fixed turboprop-jet 1 spool-jet 2 spool-rocket
+STRING electric-carb recip-injected recip-free turboprop-fixed turboprop-jet-rocket====電力-化油器往復式-直噴往復式-自由渦輪螺旋槳-定軸渦輪螺旋槳-噴氣式-火箭
+STRING electric-carb recip-injected recip-v11 free turbine-fixed turboprop-jet-rocket-v10 free turbine====電力-化油器往復式-直噴往復式-v11 自由渦輪-定矩渦輪螺旋槳-噴氣-火箭-v10 自由渦輪
+STRING fixed-constant RPM-manual pitch-main rotor-const tip mach-tail rotor-lift fan-VTOL cyclic-const ave AOA====定矩-恒速-手動槳矩-主旋翼-恒定槳梢馬赫數-尾懸疑-升力風扇-垂直起降迴圈-恒定ave AOA
+STRING fixed-constant RPM-manual pitch-main rotor-const tip mach-tail rotor-lift fan-VTOL cyclic====固定槳距-恒速-手動槳距-主旋翼-恒翼梢馬赫數-尾旋翼-升力風扇-垂直起降迴圈
+STRING goes to bus #====至匯流條 #
+STRING iPHONE & iPAD %1:(number of connections)%====iPHONE或iPAD %1:(number of connections)%
+STRING mach number====馬赫數
+STRING vacuum DG sync to magentic north.====真空DG與磁北同步
+STRING Refuel - Boom====空中加油 - 硬性加油管
+STRING Refuel - Basket====空中加油 - 軟性加油管
+STRING HP Reverb G2 Left====HP Reverb G2 左邊
+STRING HP Reverb G2 Right====HP Reverb G2 右邊
+STRING Sim Your Plane (Bluetooth)====模擬你的飛機 (藍牙)
+STRING Sim Your Plane (Wired)====模擬你的飛機 (有線連接)
+STRING Xbox Elite Wireless Controller Series 2====Xbox Elite Wireless Controller Series 2
+STRING Seaplane Start====水上停機坪
+STRING Helipad Start====直升機停機坪
+STRING Carrier Cat Shot====航空母艦彈射
+STRING Carrier Approach====降落至航空母艦
+STRING Frigate Approach====降落至護衛艦
+STRING Small Oil Rig Approach====降落至小型石油鑽井平台
+STRING Large Oil Platform Approach====降落至大型石油鑽井平台
+STRING Shuttle Landing (Full Re-Entry)====太空梭降落 (完整返程)
+STRING Shuttle Landing (Final Re-Entry)====太空梭降落 (最終返程)
+STRING Shuttle Landing (Full Approach)====太空梭降落 (完整進近)
+STRING Shuttle Landing (Final Approach)====太空梭降落 (最終進近)
+STRING Formation Flying====編隊飛行
+STRING You can pull up a local map at any time to gain better perspective on your flight.   Press the M key or click the map marker icon in the menu.====您可以隨時叫出本地地圖，以便更好地了解您的航班。 按 M 鍵或單擊菜單中的地圖圖標。
+STRING By default the keys Q and E look left and right respectively when inside the 3D cockpit. R and F look up and down. Period and comma move backwards and forwards. Plus and minus zoom in and out. You can use the 4 arrow keys to move the camera around as well.====在默認情況下“Q"鍵以及“E"鍵是用作在3D駕駛艙內左右查看的。“R”鍵以及“F”鍵則是用來上下查看的。“.” 以及 “,” 則是用來前後移動的。“+（=）”和“-”則是用來放大和縮小的。你也可以使用四個方向鍵移動你的視角。
+STRING You can display the frame rate by checking the first box in the Data Input & Output screen under the Settings. This allows you to fine-tune your simulator’s performance.====你可以通過勾選設置頁面的“資料輸出以及輸入”頁面的第一個選項來啟用幀率顯示。這將會允許你更有針對性的調整模擬效能。
+STRING There are thousands of free 3rd party aircraft, sceneries, and other X-Plane enhancements. Just search online for “X-Plane freeware.”====X-Plane有成千上萬的免費第三方飛機，地景，以及其他X-Plane增強插件。只需要在線搜索“X-Plane freeware”
+STRING You can record a flight in a real aircraft on Xavion, a free iOS app, and replay it in X-Plane 11.====你可以在Xavion（一個免費的IOS平台應用程序）中記錄一個真實的航班，並在X-Plane中回放。
