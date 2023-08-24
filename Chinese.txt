@@ -6293,6 +6293,7 @@ STRING ABack-course on, 0/1.====A反航道模式啟動， 0/1。
 STRING AIRPORT & NAVAID DATA====機場和導航點數據
 STRING AUTO-DEFLECTIONS====自動偏轉
 STRING AUTO-SWEEP====自動掃描
+STRING Add Growls====Add Growls
 STRING Add Simulator to Control====添加模擬器以進行控制
 STRING Add or Remove Scenery Now====現在添加或刪除地景
 STRING Aileron trim left.====副翼左配平
@@ -6301,6 +6302,7 @@ STRING Airfoil====翼型
 STRING All devices on the network running ForeFlight, WingX Pro, or SkyDemon====局域網中運行的ForeFlight, WingX Pro, SkyDemon設備
 STRING Allow a networked IOS to control this machine====允許網路上的教員操縱臺控制這台機器
 STRING Always try to touch down within the first few feet of the end of the runway. Learning to do this consistently will greatly increase your piloting skills.====總是試著在跑道一端起始的幾英尺處著陸，堅持做這件事會大幅提升你的飛行技術（注：中國等地區規定需要在跑道畫出的接地區著陸，俗稱“大白塊”）
+STRING Always try to touch down within the first few feet of the end of the runway. Learning to do this consistently will greatly increase your piloting skills.====總是試著在跑道一端起始的幾英尺處著陸，堅持做這件事會大幅提升您的飛行技術（注：中國等地區規定需要在跑道畫出的接地區著陸，俗稱“大白塊”）
 STRING An IOS (%1:IP address%) controlling this simulator====一台教員操縱臺設備在控制模擬器(%1:IP address%)
 STRING An IOS (%1:IP address%) that incorrectly thinks this machine is a master simulator====一台教員操縱臺錯誤的認為這台機器是主模擬器(%1:IP address%)
 STRING An X-Plane machine (%1:IP address%) controlled by this IOS====被教員操縱臺控制的X-Plane模擬器(%1:IP address%)
@@ -6351,6 +6353,7 @@ STRING Cascade rotor failure 56====級聯轉子失效 5 6
 STRING Cascade rotor failure 78====級聯轉子失效 7 8
 STRING Cessna 172S 7.01 (version 0563.00)====賽斯納 172S 7.01 （版本 0563.00）
 STRING Cessna 182T 7.01 (version 0563.00)====賽斯納 182T 7.01 （版本 0563.00）
+STRING Change Growl mode====Change Growl mode
 STRING Change Livery and Keep Flying====更改塗裝並繼續飛行
 STRING Clicking "%1:button label%" below will undo any joystick change you have made and reconfigure X-Plane to use the defaults for this device.====點擊下方的 "%1:button label%" 將會撤銷所有搖杆設置並將其重置回默認設置。
 STRING Clicking Delete will permanently remove the profile "%1:profile name%" from X-Plane.====點擊刪除後將會把 "%1:profile name%"從X-Plane中永久移除。
@@ -6503,6 +6506,7 @@ STRING Gear #1 (nose?) deployment ratio: 0.0 is retracted, 1.0 is down.====起�
 STRING Gear #2 (left?) deployment ratio: 0.0 is retracted, 1.0 is down.====起落架 #2 (左側起落架?) 釋放比: 0.0表示完全收起, 1.0表示完全放下。
 STRING Gear #3 (right?) deployment ratio: 0.0 is retracted, 1.0 is down.====起落架 #3 (右側起落架?) 釋放比: 0.0表示完全收起, 1.0表示完全放下。
 STRING Gear handle: 0 is up, 1 is down.====起落架手柄，0表示收起，1表示放下。
+STRING Gear over-speed!====起落架超速！
 STRING Generic====通用
 STRING Get some more flight practice, then see if you can recover from an unexpected emergency.====獲得更多的飛行練習，然後看看您是否能從意外的緊急情況中恢復過來。
 STRING Global MTBF applies in addition to failures selected above====除上面選中的故障之外，應用設定的全域平均無故障時間
@@ -6521,6 +6525,7 @@ STRING I smell fire!====聞著好像是著火了！
 STRING INVERTERS====變流器
 STRING If you have a real Garmin 1000, first set your IP address to 172.16.1.1 and subnet to 255.255.0.0, then check this box.====如果您有一個真正的Garmin 1000，首先將您的IP位址設置為172.16.1.1，並將子網設置為255.255.0.0，然後選中此框。
 STRING If you want to run a real G11000 with X-Plane, you have 2 steps to complete to do this:====如果你想在X-Plane運行一個真實的G1000，你需要完成以下2步：
+STRING If you want to run a real G11000 with X-Plane, you have 2 steps to complete to do this:====如果您想在X-Plane運行一個真實的G1000，您需要完成以下2步：
 STRING Increasing this slider will increase the number of objects drawn at airports. This impacts your CPU usage, so if you have a very powerful CPU, you can set this to High or even Max without impacting your frame rate too much.====增加此項將增加在機場繪製的物件數量。這會影響您的CPU使用率，因此，如果您的CPU性能足夠強，則可以將其設置為高或甚至最大，而不會影響幀率。
 STRING Indicated rate-of-turn, degrees per second positive right.====表示以 度/秒 為單位的轉向度，正為向右。
 STRING Indicated slip in degrees, positive nose-right.====表示以度為單位的下滑度，正為機鼻朝右。
@@ -6538,6 +6543,8 @@ STRING Longitude, in degrees.====經度。
 STRING Lower rotor battery failure====下部轉子電池失效
 STRING Lower rotor controller failure====下部轉子失效
 STRING MAX BATTERY POWER OUTPUT TO ELECTRIC MOTORS WITH STATE OF CHARGE====電池最大向電動機輸出功率與電量狀態
+STRING Make sure you save this password in a safe place, because you"ll need it to disable kiosk mode in the future.====請確認密碼已保存妥當，在之後你將需要此密碼來解鎖展臺模式。
+STRING Make sure you save this password in a safe place, because you"ll need it to disable kiosk mode in the future.====請確認密碼已保存妥當，在之後您將需要此密碼來解鎖展臺模式。
 STRING Map mode: 0 through 4 can give sme different map results.====地圖模式：0至4將會呈現不同模式的地圖。
 STRING Master Caution alerting, 0/1.====主注意，0/1。
 STRING Master Warning alerting, 0/1.====主警告，0/1。
@@ -6618,7 +6625,7 @@ STRING SET BYPASS AND INLET MACH FOR THIS PLANE, TO BE USED IN X-PLANE!====設�
 STRING SOLAR-POWER====太陽能
 STRING SPECIAL CONTROL DEFLECTIONS====特殊的一些控制偏轉係數
 STRING Save ====保存 
-STRING Save as Default for %1:Device Name%====將%1:Device Name%設置為默認
+STRING Save as Default for %1:Device Name%====另存為
 STRING See the file “Sending Data to X-Plane.rtfd” in your X-Plane directory’s Instructions folder for more information.====有關詳細資訊，請參閱X-Plane目錄的“Instructions”資料夾中的“Sending Data to X-Plane.rtfd”文件。
 STRING Set global mean time between failures====設定平均故障時長
 STRING Shear Amount====風切量
@@ -6678,6 +6685,10 @@ STRING WING-TILT FOR MANEUVERING====機翼傾斜的操作係數
 STRING Wave====波
 STRING We were unable to load the shader file:====無法載入陰影(shader)檔
 STRING Weapon====武器
+STRING When you click "Quit & Complete Installation," X-Plane will launch the installer and begin installing your missing files.====當你點擊“退出並完成安裝”時，X-Plane將會啟動安裝程式以安裝丟失的檔。
+STRING When you click "Quit & Complete Installation," X-Plane will launch the installer and begin installing your missing files.====當您點擊“退出並完成安裝”時，X-Plane將會啟動安裝程式以安裝丟失的檔。
+STRING When you click "Quit & Install Scenery," X-Plane will launch the installer and allow you to change your scenery installation.====當你點擊“退出並升級地景”時，X-Plane將開啟安裝程式以便安裝或修改地景。
+STRING When you click "Quit & Install Scenery," X-Plane will launch the installer and allow you to change your scenery installation.====當您點擊“退出並升級地景”時，X-Plane將開啟安裝程式以便安裝或修改地景。
 STRING When you click “Add or Remove Scenery Now,” X-Plane will launch the installer and allow you to change your scenery installation.====當您點擊“現在添加或刪除地景”時，X-Plane會啟動安裝程式並允許您更改您的地景安裝設置。
 STRING When you click “Complete Installation Now,” X-Plane will launch the installer and begin installing your missing files.====當您點擊“現在完成安裝”時，X-Plane會啟動安裝程式並開始安裝丟失的檔。
 STRING When you click “Update X-Plane Now,” X-Plane will launch the installer and update to the latest version.====當您點擊“立刻更新X-Plane”時，X-Plane會運行更新程式並更新到最新版本。
@@ -6696,7 +6707,9 @@ STRING Yaw not found! ====無法找到偏航感測器！
 STRING You agree to use X-Plane for non-commercial purposes only. (See X-Plane.com/pro/ for information on professional licenses.)====您同意只將此X-Plane授權用於非商業用途（請查看X-Plane.com/pro/ 來獲取關於專業授權的更多資訊）
 STRING You already have the X-Plane 11 Demo installed on this computer. What would you like to do?====您已經安裝了一份X-Plane11試用版在您的電腦上，您想要做什麼？
 STRING You can record a flight in a real aircraft on Xavion, a Laminar Research App, and replay it in X-Plane 11.====你可以用Xavion記錄下一架真實客機的飛行軌跡，這是一款Laminar Resarch開發的App，並且可以在X-Plane11裡重播軌跡。
+STRING You can record a flight in a real aircraft on Xavion, a Laminar Research App, and replay it in X-Plane 11.====您可以用Xavion記錄下一架真實客機的飛行軌跡，這是一款Laminar Resarch開發的App，並且可以在X-Plane11裡重播軌跡。
 STRING You know that real single-engine planes pull to the left, right?====你知道嗎？現實中單引擎螺旋槳飛機會受到向左的拉力。
+STRING You know that real single-engine planes pull to the left, right?====您知道嗎？現實中單引擎螺旋槳飛機會受到向左的拉力。
 STRING You may want to extend the next notch of flaps to slow you down even more.====您可能想伸出一格襟翼以進一步減速。
 STRING You might try restarting your computer to shut down any other programs that might be using the same port, preventing X-Plane from being able to use it.====您可能會需要重新開機電腦以關閉可能使用相同埠的任何其他程式，以防X-Plane無法使用所需的埠。
 STRING You will be able to use X-Plane normally, but X-Plane will be unable to automatically configure networking.====您將能夠正常使用X-Plane，但X-Plane將無法自動配置網路。
@@ -6718,27 +6731,3 @@ STRING goes to bus #====至匯流條 #
 STRING iPHONE & iPAD %1:(number of connections)%====iPHONE或iPAD %1:(number of connections)%
 STRING mach number====馬赫數
 STRING vacuum DG sync to magentic north.====真空DG與磁北同步
-STRING Refuel - Boom====空中加油 - 硬性加油管
-STRING Refuel - Basket====空中加油 - 軟性加油管
-STRING HP Reverb G2 Left====HP Reverb G2 左邊
-STRING HP Reverb G2 Right====HP Reverb G2 右邊
-STRING Sim Your Plane (Bluetooth)====模擬你的飛機 (藍牙)
-STRING Sim Your Plane (Wired)====模擬你的飛機 (有線連接)
-STRING Xbox Elite Wireless Controller Series 2====Xbox Elite Wireless Controller Series 2
-STRING Seaplane Start====水上停機坪
-STRING Helipad Start====直升機停機坪
-STRING Carrier Cat Shot====航空母艦彈射
-STRING Carrier Approach====降落至航空母艦
-STRING Frigate Approach====降落至護衛艦
-STRING Small Oil Rig Approach====降落至小型石油鑽井平台
-STRING Large Oil Platform Approach====降落至大型石油鑽井平台
-STRING Shuttle Landing (Full Re-Entry)====太空梭降落 (完整返程)
-STRING Shuttle Landing (Final Re-Entry)====太空梭降落 (最終返程)
-STRING Shuttle Landing (Full Approach)====太空梭降落 (完整進近)
-STRING Shuttle Landing (Final Approach)====太空梭降落 (最終進近)
-STRING Formation Flying====編隊飛行
-STRING You can pull up a local map at any time to gain better perspective on your flight.   Press the M key or click the map marker icon in the menu.====您可以隨時叫出本地地圖，以便更好地了解您的航班。 按 M 鍵或單擊菜單中的地圖圖標。
-STRING By default the keys Q and E look left and right respectively when inside the 3D cockpit. R and F look up and down. Period and comma move backwards and forwards. Plus and minus zoom in and out. You can use the 4 arrow keys to move the camera around as well.====在默認情況下“Q"鍵以及“E"鍵是用作在3D駕駛艙內左右查看的。“R”鍵以及“F”鍵則是用來上下查看的。“.” 以及 “,” 則是用來前後移動的。“+（=）”和“-”則是用來放大和縮小的。你也可以使用四個方向鍵移動你的視角。
-STRING You can display the frame rate by checking the first box in the Data Input & Output screen under the Settings. This allows you to fine-tune your simulator’s performance.====你可以通過勾選設置頁面的“資料輸出以及輸入”頁面的第一個選項來啟用幀率顯示。這將會允許你更有針對性的調整模擬效能。
-STRING There are thousands of free 3rd party aircraft, sceneries, and other X-Plane enhancements. Just search online for “X-Plane freeware.”====X-Plane有成千上萬的免費第三方飛機，地景，以及其他X-Plane增強插件。只需要在線搜索“X-Plane freeware”
-STRING You can record a flight in a real aircraft on Xavion, a free iOS app, and replay it in X-Plane 11.====你可以在Xavion（一個免費的IOS平台應用程序）中記錄一個真實的航班，並在X-Plane中回放。
